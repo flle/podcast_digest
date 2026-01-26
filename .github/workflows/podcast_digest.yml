@@ -1,56 +1,44 @@
-name: Daily Podcast Digest
+name: Daily Podcast Digest (MVP)
 
 on:
+  workflow_dispatch: {}
   schedule:
-    - cron: "0 5 * * *"  # 05:00 UTC (Zürich: 06:00/07:00 je nach Sommerzeit)
-  workflow_dispatch:
+    - cron: "15 5 * * *" # täglich 05:15 UTC (entspricht 06:15 Zürich im Winter)
+
+permissions:
+  contents: write
 
 jobs:
-  run:
-    environment: "Podcast Digest"
+  ingest:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write   # nötig, um state.json zurück zu committen
-    env:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      SMTP_HOST: ${{ secrets.SMTP_HOST }}
-      SMTP_PORT: ${{ secrets.SMTP_PORT }}
-      SMTP_USER: ${{ secrets.SMTP_USER }}
-      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-      MAIL_FROM: ${{ secrets.MAIL_FROM }}
-      MAIL_TO: ${{ secrets.MAIL_TO }}
-      SMTP_TIMEOUT: "20"  # in Sekunden
-      SMTP_RETRIES: "2"
-      LLM_PROVIDER: "openai" # "gemini" oder "openai"
-      # Model für Gemini oder OpenAI auswählen:
-      # OpenAI: https://platform.openai.com/docs/models?utm_source=chatgpt.com
-      # Google: https://ai.google.dev/gemini-api/docs/models 
-      MODEL_TEXT: "gpt-4o-mini"  # z.B. "gemini-3-flash-preview" oder "gpt-5-mini"
-      LLM_TIMEOUT_S: "60"
-      LLM_RETRIES: "2"
-      LLM_BACKOFF_S: "2"
-      ASR_ENABLED: 0 # (0|1, default 0)
-      ASR_MODEL: gpt-4o-mini-transcribe # (default gpt-4o-mini-transcribe) – weitere Models: gpt-4o-transcribe, whisper-1.platform.openai.com)
-      ASR_LANGUAGE: en  # (optional, z. B. de)
-      #ASR_PROMPT:   # (optional; hilft bei Eigennamen/Akronymen) 
-      ASR_MAX_DOWNLOAD_MB: 100   # maximale Grösse des Podcast Audio Files für Download in MB
-      ASR_CHUNK_MINUTES: 15   # Anzahl Minuten, wenn Chunking verwendet wird (z. B. 12)
-      ASR_REENCODE_BITRATE: 48k   # ffmpeg Reecoding Bitrate (z. B. 48k)
-      ASR_MAX_EPISODES_PER_RUN: 3 # maximale Anzahl Episoden die cached werden sollen (via transcript API Aufruf)
-      ASR_CACHE_ENABLED: 1   #  (0|1, default 0) – ob transkribierte Episoden gecached werden sollen
-      
-      DIGEST_TZ: "Europe/Zurich"
-      SMOKE_TEST: "0"  # auf "1" setzen, um Initialisierung und RSS Feeds Zugriff und Parsing zu prüfen. Ohne LLM Summry, ohne Mail-Versand.
-      DRY_RUN: "0"  # auf "1" setzen, um keinen Newsletter zu versenden
-      FORCE_LATEST_N: "0"  # auf eine Zahl >0 setzen, um die letzten N Artikel/Podcasts immer abzurufen
-      YOUTUBE_TRANSCRIPT_ENABLED: "0" # auf 0 setzen, um YouTube Transcripts zu deaktivieren (falls github actions blockiert wird)
-      MAX_EPISODE_AGE_DAYS: "7"  # maximale Alter von Podcast Episoden in Tagen
-      BOOTSTRAP: "0"  # auf "1" setzen, um den initialen Bootstrapping Prozess zu aktivieren
-      BOOTSTRAP_LATEST_N: "10"  # Anzahl Artikel/Podcasts für initialen Bootstrapping Prozess
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Ingest RSS and update state
+        run: |
+          python -m src.main ingest --repo-root .
+
+      - name: Commit changes (if any)
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state/state.json artifacts/episodes || true
+          git commit -m "chore: update podcast state"
+          git push
