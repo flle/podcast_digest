@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/7c4c29cc/c239855c.mp3",
+  "episode_id": "9b6387fb9051295359634d92a8874bfc8e9c893d0ba48041a7da81e0c148bc9a",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/2653",
+  "link": "https://share.transistor.fm/s/7c4c29cc",
+  "published_utc": null,
+  "summary": "<p>We seem to be experiencing a surge of video generation tools, models, and applications. However, video generation models generally struggle with some basic physics, like realistic walking motion. This leaves some generated videos lacking true motion with disappointing, simplistic panning camera views. Genmo is focused on the motion side of video generation and has released some of the best open models. Paras joins us to discuss video generation and their journey at Genmo.</p><p><br /></p><p>Sponsors:</p><ul><li><a href=\"https://ai.domo.com\">Domo</a> – The AI and data products platform. Strengthen your entire data journey with Domo’s AI and data products. </li></ul><p>Featuring:</p><ul><li>Paras Jain – <a href=\"https://www.linkedin.com/in/jain-paras\">LinkedIn</a>, <a href=\"https://x.com/_parasj\">X</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://www.genmo.ai/\">Genmo</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "Video generation with realistic motion"
+}

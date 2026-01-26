@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/39ef8e3f/ad3b0557.mp3",
+  "episode_id": "dcdd5b2aa2705d04b1b2198d7e299d33f0f69e8efeafff5b6ba3e2e75b36c0d6",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/1712",
+  "link": "https://share.transistor.fm/s/39ef8e3f",
+  "published_utc": null,
+  "summary": "<p>Coqui is a speech technology startup that making huge waves in terms of their contributions to open source speech technology, open access models and data, and compelling voice cloning functionality. Josh Meyer from Coqui joins us in this episode to discuss cloning voices that have emotion, fostering open source, and how creators are using AI tech.</p><p><br /></p><p>Featuring:</p><ul><li>Josh Meyer – <a href=\"https://github.com/jrmeyer\">GitHub</a>, <a href=\"https://x.com/_josh_meyer_\">X</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://coqui.ai/\">Coqui</a></li><li><a href=\"https://coqui.ai/blog/tts/african-languages-dataset-collaboration\">BibleTTS - Data and models for African langauges</a></li><li><a href=\"https://huggingface.co/spaces/coqui/CoquiTTS\">Coqui TTS Hugging Face Space</a></li><li><a href=\"https://github.com/coqui-ai\">Coqui on Github</a></li><li><a href=\"https://changelog.com/practicalai/104\">Joshua’s previous Practical AI episode about Common Voice</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "Cloning voices with Coqui"
+}

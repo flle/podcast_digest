@@ -1,5 +1,2076 @@
 {
-  "version": 1,
-  "episodes_seen": {},
-  "last_run_utc": null
+  "episodes_seen": {
+    "01224fe58cd40c4fd659db98cd5bce14ff5ac4976523559b0f1e5e84541941e1": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/9290eb7f",
+      "published_utc": null,
+      "title": "Federated Learning 📱"
+    },
+    "015c8148b75a1a181acb4a552aa0f09b35602b056281a001d19efeb5819534a2": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e3639074",
+      "published_utc": null,
+      "title": "The AI engineer skills gap"
+    },
+    "01c455ade14a72dd9d3e2ef59f4d72507d7e0f76348822e6d369837a23e30f56": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/4771f92e",
+      "published_utc": null,
+      "title": "Reimagining actuarial science with AI"
+    },
+    "01d1186605dd4eeafd5370a08eb899f38d893785ebb5591689b6580fb88a0cbb": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/1a5e6385",
+      "published_utc": null,
+      "title": "Data science for intuitive user experiences"
+    },
+    "02aa0f1c1a55fbed6c099b368eca10dc57f2855426a8f59478e773e8152d222c": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/b1865616",
+      "published_utc": null,
+      "title": "Build a workspace of AI agents"
+    },
+    "02bea1ea792c0864a529c411fd2d256cb7883fcd6c42e2e58575b5438b165bb2": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/4e919eac",
+      "published_utc": null,
+      "title": "Making GANs practical"
+    },
+    "03a52cfffab5824327cab1b0c2ab47598d27426cb6271c7cf676d9f61e5761f5": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/5c274ebf",
+      "published_utc": null,
+      "title": "Women in Data Science (WiDS)"
+    },
+    "05e6c7320634fd37437e1e690e847d153219e023fb8f5b7edd25461994ee40db": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/42403483",
+      "published_utc": null,
+      "title": "Machine learning at small organizations"
+    },
+    "06e133a7c6941ae4d6762bc41885d4428a7772707074cd53c993d44942f61794": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/fb1edb1f",
+      "published_utc": null,
+      "title": "Clones, commerce & campaigns"
+    },
+    "07756d09477a9fde9b6d6b23b1c2206deecd41cd027f0e4575f02d7a809f87ec": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/d3eff646",
+      "published_utc": null,
+      "title": "A developer's toolkit for SOTA AI"
+    },
+    "08c62cd812785128a7522b2020575a0e6844dd21961168ee2f28de3e68c0c15f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/f6bcfbd5",
+      "published_utc": null,
+      "title": "Creating a culture of innovation"
+    },
+    "0bbc5e67533ebf1f4aae70d52eb5dbb8ec62245d1808fc77c279338e1cd207cb": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/926151bd",
+      "published_utc": null,
+      "title": "Operationalizing ML/AI with MemSQL"
+    },
+    "0cd650afb08a4e5084026feb7d47903d471494bc12b02fd64113c75560109041": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/f918e894",
+      "published_utc": null,
+      "title": "NLP for the world's 7000+ languages"
+    },
+    "0d4be6c339c38f14b1ba91ed09656f680458f22fc2f2deabd36dd0f4754ccf55": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/522b45c8",
+      "published_utc": null,
+      "title": "GenAI risks and global adoption"
+    },
+    "0d7c8fd2e638ca3c0e1550124cb3f27c6d7772e79e287e7cc03810ff888351cf": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/7adef20e",
+      "published_utc": null,
+      "title": "AI-driven automation in manufacturing"
+    },
+    "0d82c10082b95312d1417f6f0717f1c74854e516d7379d101f23c00599ad2a9c": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/489620ac",
+      "published_utc": null,
+      "title": "The mathematics of machine learning"
+    },
+    "0e0e63386b2df845f248c3f3cc266ab2dfa187e9d2f8f64dee40863bcbeeb555": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/50e38a16",
+      "published_utc": null,
+      "title": "Putting AI in a box at MachineBox"
+    },
+    "0e3e03c259c3a99e109468443c7f621d763e9a77a97e4e574be35ccf556b12f4": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/12268c7d",
+      "published_utc": null,
+      "title": "Workforce dynamics in an AI-assisted world"
+    },
+    "0f3d484907dba89907da79f74a47f183cef1e36c1bc9e574f16a19931d78e027": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/087fcf22",
+      "published_utc": null,
+      "title": "Stanford's AI Index Report 2024"
+    },
+    "0f755c64461bda771cc042e16ea920ade671096772e9ee791c270bad9a4cbc0c": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/4817f35b",
+      "published_utc": null,
+      "title": "Controlled and compliant AI applications"
+    },
+    "121bd1564753b1d382ed45f8b657a496e6672dbf2ae9b038f04cbd257718d8f8": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/dc874154",
+      "published_utc": null,
+      "title": "Deploying models (to tractors 🚜)"
+    },
+    "1240822b8625d1171abf7388082c484663eb8c883d6e5d52193b1134ab05dbbf": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/458a9165",
+      "published_utc": null,
+      "title": "IBM's AI for detecting neurological state"
+    },
+    "12e44f28e4a1daaf20bf63a987286ddf78ee99afe1568250b6de1c42e5ce068a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/db834f34",
+      "published_utc": null,
+      "title": "Flying high with AI drone racing at AlphaPilot"
+    },
+    "139bb745a6219511992e71a67775c3d6244cd43fe88ed5982a7ed907cd3d4de0": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/22432f59",
+      "published_utc": null,
+      "title": "ChatGPT goes prime time!"
+    },
+    "139c4f792798e904d379050dc6664c36c5a5ab9d3f3e230933395596293ce818": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/aee0a4a0",
+      "published_utc": null,
+      "title": "Understanding what's possible, doable & scalable"
+    },
+    "13c5dde8340c369a36348ad16c91497e42358fe801d527d4b0e7123746ade407": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/1f18c42f",
+      "published_utc": null,
+      "title": "Towards stability and robustness"
+    },
+    "13fb8ebfcae9a31f00df690f0d1a63ec509e4fb308030311f55fd5cabef56828": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/2fb2dbd4",
+      "published_utc": null,
+      "title": "Going full bore with Graphcore!"
+    },
+    "142c6c08127a737051060ae11c7334e2095cf7ab5c8e2dbe471c523f7f283d62": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/cec26cda",
+      "published_utc": null,
+      "title": "AI in healthcare, synthesizing dance moves, hardware acceleration"
+    },
+    "1453a11ad2810022390ab827922c29f2a112f1e38fafd52ea2b7f13aa56071c1": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/b48cb33f",
+      "published_utc": null,
+      "title": "Quick, beautiful web UIs for ML apps"
+    },
+    "1629128a1951364678753b8f397bb6af8d744f6309340f96b16425255efa7814": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/0d860c05",
+      "published_utc": null,
+      "title": "Speech recognition to say it just right"
+    },
+    "16890b67b81ae3d4468e694214a0491eb0b5d4be3dcf259413ff437e5c8ad35d": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e656f736",
+      "published_utc": null,
+      "title": "AI is changing the cybersecurity threat landscape"
+    },
+    "16c321d76f52308a04551f61691835fa74e8ec88f1ea8bb6d93047a8800d9216": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/85f91f30",
+      "published_utc": null,
+      "title": "🌍 AI in Africa - Agriculture"
+    },
+    "17142bbc4c2ae6af45cf1868677febad415da48751a4e6f2d953ab2afdd99c6f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/1e3c9247",
+      "published_utc": null,
+      "title": "Federated learning in production (part 2)"
+    },
+    "1733ecbcb372f9574b1647c57501213c63492ddd4541f4243dbe161f028ee7f8": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/6aa47934",
+      "published_utc": null,
+      "title": "Ask us anything (about AI)"
+    },
+    "17c87fdde132ba96d96412acfa058c53e841ba7abf09174b65798ef0f7dcd37f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/7e30e465",
+      "published_utc": null,
+      "title": "The last mile of AI app development"
+    },
+    "17eaf763846789f56f02b0d22bde2650b0cce48c274cbf2dab65e19cfdcdd36b": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/fee19798",
+      "published_utc": null,
+      "title": "AI in the majority world and model distillation"
+    },
+    "185d645cf576773ab1039042a1fc5b0158256f1f55a6fc83fecbcc04a53e52dc": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/66087536",
+      "published_utc": null,
+      "title": "Rise of the AI PC & local LLMs"
+    },
+    "1907173f6002816f8155d7d0fadf0c63364f9be9a4bafa5f7bba9ce2caa7fa07": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/3dd48eb7",
+      "published_utc": null,
+      "title": "When AI goes wrong"
+    },
+    "1a3b1558ef0ca2cf8ecdb404d7034d0e31ec29a42eb7d24b33015dfc79c7f253": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/5e938e26",
+      "published_utc": null,
+      "title": "scikit-learn & data science you own"
+    },
+    "1a3b36340b9c9f20c86295b5266b23660a06a8722654111ab0baf7bddb689b55": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/ea230fd3",
+      "published_utc": null,
+      "title": "Trends in data labeling"
+    },
+    "1a7e2296088b85c19e96abb4ca4f7fdd7b2f21f0fa842b2170b9913086c428d3": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/13e73647",
+      "published_utc": null,
+      "title": "Building a career in Data Science"
+    },
+    "1a9531fb50c992af726c1846791e39eec63c6227f627e20d0c42bfd33d396371": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/43fce794",
+      "published_utc": null,
+      "title": "AI-driven studies of the ancient world and good GANs"
+    },
+    "1b22b22fc3fdb590a05a6d069d81af86bae761f2abdcc823f53a87b0d3e4d633": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://practicalai.fm/trailer-1",
+      "published_utc": null,
+      "title": "Welcome to Practical AI"
+    },
+    "1b93311de0a43e3d682456cb159e38d633f262073a1135bdb13c99832f8df609": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/6743e631",
+      "published_utc": null,
+      "title": "Agentic AI for Drone & Robotic Swarming"
+    },
+    "1c6766380ac5e9be56325e7f337fe677825ab3bceceaa26e5fbeaf0bae2f954e": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/6441430e",
+      "published_utc": null,
+      "title": "Celebrating episode 50 and the neural net!"
+    },
+    "1c96c64fcfbce502959fc28e39b6a20f07a163f513eb6923ec69c8ea050aeb10": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/3fed4a77",
+      "published_utc": null,
+      "title": "The $1 trillion dollar ML model 💵"
+    },
+    "1c9cdaf4b40275e371bd403880e4c3023b41712cced6232090070d893d3b06ce": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/63a2c17d",
+      "published_utc": null,
+      "title": "Generating \"hunches\" using smart home data 🏠"
+    },
+    "1cd5de48b28b448d4396345ff64d804f9b098d5e33599b0f3f9dc0228f0d3798": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/15bb67dd",
+      "published_utc": null,
+      "title": "Exploring the COVID-19 Open Research Dataset"
+    },
+    "1d6a8acd1c8465f4dcc1d21de143388cf1573765906c216cc432cbf9d0672a35": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/60978022",
+      "published_utc": null,
+      "title": "Real-time conversational insights from phone call data"
+    },
+    "1d6fa65d5e90a7aee1627020daa74fdc9a931a3a62b301ec1423f110ec61816b": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/f7d9e521",
+      "published_utc": null,
+      "title": "Prompting the future"
+    },
+    "1eb35bf6de7d8cdab55ecf7916ce188f60b28b372e5ae50594b14647f3fef503": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/657d28be",
+      "published_utc": null,
+      "title": "Orchestrating agents, APIs, and MCP servers"
+    },
+    "205719bbd8a2018faded0ff3df4dd04de30313deceaf85c3a710787fed024d44": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/743c2f04",
+      "published_utc": null,
+      "title": "Model inspection and interpretation at Seldon"
+    },
+    "20b2d5a9b9681dbf52bfe7ebbcc2c39e7b33a356610be866793bb5c9c1f938ae": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/be2008fd",
+      "published_utc": null,
+      "title": "AI trailblazers putting people first"
+    },
+    "2179b0459afdd225b963bfe980305cbc3a6acdf1cce1525144fd92d36c768981": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/c5cc7077",
+      "published_utc": null,
+      "title": "Government regulation of AI has arrived"
+    },
+    "2286d7be99996fcfc9288419f0d8bc041e56900a0ef31d14e474cc6a0744dfdd": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/8a1f01e3",
+      "published_utc": null,
+      "title": "Practical AI turns 100!!! 🎉"
+    },
+    "22f60aa55daa0ee5571f788594bbd03532bfcb0e6ff06c0827f8de8a7d84ea50": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e61ba232",
+      "published_utc": null,
+      "title": "The geopolitics of artificial intelligence"
+    },
+    "23ae057206ae5474bdc2762e01be13c6afd0d484542dc6b6eb9173e6bdbd19f1": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/10f202c1",
+      "published_utc": null,
+      "title": "Should kids still learn to code?"
+    },
+    "241536be4ac39a73f385b4b17abc26e10587a1d63b863306f8d516ef026effe2": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/7cf60484",
+      "published_utc": null,
+      "title": "Roles to play in the AI dev workflow"
+    },
+    "2438f33e4bf51f5a872ecbd476683d7028ed8a52f3d3b6c405e416de1937e548": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/3d390eaa",
+      "published_utc": null,
+      "title": "SOTA machine translation at Unbabel"
+    },
+    "25f110ab1bdc460897de58ff082ba7223a95fa3e844de4ff0af7f267920f4751": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/59efe3b9",
+      "published_utc": null,
+      "title": "Open source, on-disk vector search with LanceDB"
+    },
+    "26e87e32cb70c3745e7bc5c4b46e02ec724d8fe086a3cea7b106ef60158d1dfc": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/be091144",
+      "published_utc": null,
+      "title": "The perplexities of information retrieval"
+    },
+    "28102440d28247dec6f2312295f8a0475979c20ab1eb0f5e3958307325e930a9": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/c04ce2de",
+      "published_utc": null,
+      "title": "Accelerated data science with a Kaggle grandmaster"
+    },
+    "284a5115b626101111b541def02980a2ee2e2781e2f00dc7c8d68f4838609f96": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/893e6ec0",
+      "published_utc": null,
+      "title": "Privacy in the age of AI"
+    },
+    "28a8292aa5aefcb5450f024627c6a6d098cf91c64ca296d99588a42b7f223bfe": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/5e63c891",
+      "published_utc": null,
+      "title": "Software and hardware acceleration with Groq"
+    },
+    "29376f4f3aae8b03e0819dd1006f540a96fd5b1c30fba79523f5c8dfe6f5d3c1": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/d7a0d796",
+      "published_utc": null,
+      "title": "Model Context Protocol Deep Dive"
+    },
+    "295807d388e022d03f54423af9f601b907dce3b50483faa50f50e83041820e15": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/b03b373b",
+      "published_utc": null,
+      "title": "Apple Intelligence & Advanced RAG"
+    },
+    "296929a0d1deff9a167d167cf9b37a8c71d313ca99928ca63eee6d438b50be71": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/2f9b3020",
+      "published_utc": null,
+      "title": "SLICED - will you make the (data science) cut?"
+    },
+    "29aece71cc74353c41c2fbbc82efc171ff1c3d09ce5eddc5c0407287b4a7b3ef": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/c3a0f05e",
+      "published_utc": null,
+      "title": "The AI doc will see you now"
+    },
+    "2a253924c35caedb3dcde611719e9c7672c130c0f7cdd8359104dbbd859dcf2e": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/bd1e5a42",
+      "published_utc": null,
+      "title": "Recommender systems and high-frequency trading"
+    },
+    "2acb4b74073233fafe46a7015afc80856cc0a8dc95221bfd41244bd77682d3da": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/b81ea4dd",
+      "published_utc": null,
+      "title": "The influence of open source on AI development"
+    },
+    "2b38cd54a1b0b753011646969debee25b38a51735814c94abe6af134523bbebf": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/d98fc7ab",
+      "published_utc": null,
+      "title": "Applied NLP solutions & AI education"
+    },
+    "2c4e5b27867604f9ebf5d09600f318f6a9f5311d1efd7b309c84a8d825fef22e": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/a2bb5bd9",
+      "published_utc": null,
+      "title": "Getting in the Flow with Snorkel AI"
+    },
+    "2c797ab764eead915abee9191be23a5f2f90f780302887a24d394b81a2ce23e3": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/b630a894",
+      "published_utc": null,
+      "title": "Analyzing the 2021 AI Index Report"
+    },
+    "2c8b01d43355ff532a85afb7b4ea5948d248bde51960634b97207b2f024d8729": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e49da57b",
+      "published_utc": null,
+      "title": "Building a data team"
+    },
+    "2d2af538f58cd617f86a7730cc77d30d4bd90a0ea8c5e1e1bc078a72794cf8e8": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/b792cebf",
+      "published_utc": null,
+      "title": "The OpenAI debacle (a retrospective)"
+    },
+    "2dbaa512cbbb96e169a0956ded0aab44387d58d6a719656a6599183511644a14": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/933933a1",
+      "published_utc": null,
+      "title": "Achieving provably beneficial, human-compatible AI"
+    },
+    "2ef5e3327cd20824be79e3670f10f4d29eeda9b3d51e3526e51ebf30fcdf51a7": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/73986a0f",
+      "published_utc": null,
+      "title": "Capabilities of LLMs 🤯"
+    },
+    "3144ba8d4d9cb00e77ad6f45ce6887f711f67909e8ac1640d7e57837ce564628": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/0f11a2cd",
+      "published_utc": null,
+      "title": "The world needs an AI superhero"
+    },
+    "32d6187398fd1cab2c406fc6bf7102592323597018916dc16467398a795ce58f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/4d6d9bbf",
+      "published_utc": null,
+      "title": "Serverless GPUs"
+    },
+    "344f0639165bab8cc637406b23efe14279b85d99b12ee43ba7f4e44e000b03f4": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/210a293e",
+      "published_utc": null,
+      "title": "From research to product at Azure AI"
+    },
+    "34a44170bc985e3e70d10d09ab46961911bccb28907dff729f777c1fbf5d6277": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/d51585a9",
+      "published_utc": null,
+      "title": "Making the world a better place at the AI for Good Foundation"
+    },
+    "34b991ae35907089f6ac96a999b9f0b9e8bc0677549e041aa131004d0f5e5897": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/051442de",
+      "published_utc": null,
+      "title": "Reinforcement Learning for search"
+    },
+    "351c09bd8cef53b1673836c778dafc18f00f15195a7bf40283e03fb4f8978776": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/82538875",
+      "published_utc": null,
+      "title": "Generating product imagery at Shopify"
+    },
+    "38c888ee41ecf9e631aa6b49a7ff82008241a6d51996ba53b9a5b4df55946289": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/36181d91",
+      "published_utc": null,
+      "title": "The practicalities of releasing models"
+    },
+    "38fb7938df7c87be129ba68e7fd2e3f5c83fb74cb03fa220808d5dcea0735087": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/88bfc628",
+      "published_utc": null,
+      "title": "Helping African farmers with TensorFlow"
+    },
+    "39bf25565bdb63a15ddf2399a9fa46510bcf50e27d2904642e94be78a49facf3": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/d6c1a16d",
+      "published_utc": null,
+      "title": "Leading the charge on AI in National Security"
+    },
+    "3a11a6d94a872bad5892e241e48366fe5e8a9d8b9256c802c0a61438e6ee8676": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/df33214d",
+      "published_utc": null,
+      "title": "Controlling AI Models from the Inside"
+    },
+    "3b7a2fc71a6ecb630901f7236f5d23fb1fb379f100a52118221859d3fca16a63": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/7561b14c",
+      "published_utc": null,
+      "title": "Growing up to become a world-class AI expert"
+    },
+    "3c39b39396c40fc406246ddbe31e83d04e097e97d0ac11d1ae826d508c1394d2": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/6947239f",
+      "published_utc": null,
+      "title": "Threat modeling LLM apps"
+    },
+    "3ce5df4204972681a595ed5c5044014b98e62a4e102f94e95d9060a6cbdd4830": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/c34dea01",
+      "published_utc": null,
+      "title": "Open source AI to tackle your backlog"
+    },
+    "3d5ebe613a0eef7d808049ca6e995d7d5a6e2ac9c56dc64ceb9d3f4910a17bcd": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/6254bc31",
+      "published_utc": null,
+      "title": "On being humAIn"
+    },
+    "3ebe58df47fbc5574b192c47b247212b3ce231ebc21647fc5d738dd05d49f1e0": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/c73dd974",
+      "published_utc": null,
+      "title": "Creating a private AI assistant in Thunderbird"
+    },
+    "3f29d2eb23da21b3d3141960b43d0a907fa7b6d9f280cf801683673def13b23f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/f2ddd724",
+      "published_utc": null,
+      "title": "Cambrian explosion of generative models"
+    },
+    "401964485e3f441b8f61b3b5e8f42c3b77cbd780e7b64dd241a27a8f619d9203": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/50ac2613",
+      "published_utc": null,
+      "title": "Chris on AI, autonomous swarming, home automation and Rust!"
+    },
+    "40501df73b627a0f2c8b2eb29023d04d349b4c817d46e5210ec61e19eef5ecd3": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/a2c1cf77",
+      "published_utc": null,
+      "title": "Understanding the landscape of AI techniques"
+    },
+    "4090b9bdf6ce617a9d97f638f7d0e120837d6ede6f535dc8758a8c79f271bb4a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/d60b2f55",
+      "published_utc": null,
+      "title": "Photonic computing for AI acceleration"
+    },
+    "4266179d86efbd62426fcd562870c7b5497f28a485795659f59c22e7b647e770": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/139d73d7",
+      "published_utc": null,
+      "title": "It's time to talk time series"
+    },
+    "43b18b61525c0bd3eafe29ff06d2f6ee69e76025e0bfb9da18079e9018634c42": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/27edd2af",
+      "published_utc": null,
+      "title": "UBER and Intel’s Machine Learning platforms"
+    },
+    "43f50a3ca6c79a907eb28a0272b3e77f6008abd255257bb5d2d75cc17ed0924e": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/1d61dc97",
+      "published_utc": null,
+      "title": "Active learning & endangered languages"
+    },
+    "44b64454e55dec18910d8df9d6c1f4e4ad3d02b453672f381486325eeff947f5": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/0da5a2b1",
+      "published_utc": null,
+      "title": "The impact of AI on the workforce: A state-level case study"
+    },
+    "452ceda6ffd7d1cf655736c3386ab922f352b64513db86f4fb0e32c5e02ea5b5": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/0ef709e4",
+      "published_utc": null,
+      "title": "Gaudi processors & Intel's AI portfolio"
+    },
+    "46537e61bfadfe0f986e506bf83f69783cb1d000c888926dd70969689f0b010f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/f54e5670",
+      "published_utc": null,
+      "title": "So you have an AI model, now what?"
+    },
+    "46e057e63159b1fed36f13afd37050265e657849e1b86dd5b94ceaeb0e731228": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/57322b1f",
+      "published_utc": null,
+      "title": "Eureka moments with natural language processing"
+    },
+    "46f522263159c32d17c21839bb6ce233100e153ef8c69e222e8455dd5ec7102d": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/43ed9629",
+      "published_utc": null,
+      "title": "Worlds are colliding - AI and HPC"
+    },
+    "4896b25e6cd21454b1f404227de0347a47f3fedf3d88c9e0fac5f61b30439e76": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/44029566",
+      "published_utc": null,
+      "title": "TensorFlow Dev Summit 2019"
+    },
+    "49362f74ecdbc9213537fb636cb95ab2fc05b22ef73d445045be702cc2a2a612": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/76659e53",
+      "published_utc": null,
+      "title": "End-to-end cloud compute for AI/ML"
+    },
+    "4a0fc377731422cdf3054ada2c3ccdf7afc372fd624013b6ae4dec3e28b1223f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/604d821f",
+      "published_utc": null,
+      "title": "Creating tested, reliable AI applications"
+    },
+    "4c3552c44c9ebe8c4f3737d75ecd87cdd331dd3374cb1300add89441e0679225": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/01314cdb",
+      "published_utc": null,
+      "title": "Data synthesis for SOTA LLMs"
+    },
+    "4cd76d04732276ca0ade2be2751e64b89b8bbcfbe0778aefb6dd95e48e8eb0ca": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/259c38d4",
+      "published_utc": null,
+      "title": "Eliminate AI failures"
+    },
+    "4cfe28909ef48b507a942dc7d0f47d9cd3e311aea92fa40c36f25fa8d3b0d0be": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/467cb53a",
+      "published_utc": null,
+      "title": "Learning about (Deep) Learning"
+    },
+    "4e44e674112dc23bcba09a3c4b6bec5f5e489bd4fe56cd8e21e85de6d9684150": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/2150f5d5",
+      "published_utc": null,
+      "title": "Fighting bias in AI (and in hiring)"
+    },
+    "4efa999978e10391fe2e37132896f7cd3c34a291a9ac7e2a6c1939bef87f1694": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/b15dacfe",
+      "published_utc": null,
+      "title": "YOLOv9: Computer vision is alive and well"
+    },
+    "4fbb4ca14f2ff89895beb0c8ff16e3ffd79075a635778f7dcf8ac9fd8f3f5b94": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/63e1f75a",
+      "published_utc": null,
+      "title": "Legal consequences of generated content"
+    },
+    "51bd7ec5a24a5db74e0ac9e3cfefdd379069e95f444f318b74303c3167ca48dd": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/695b726b",
+      "published_utc": null,
+      "title": "OpenAI and Hugging Face tooling"
+    },
+    "524c9fa6fbb701a132a43ae260ae30dce02b5b198881f38b4fc5f41413bf6594": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/3f2ad634",
+      "published_utc": null,
+      "title": "R, Data Science, & Computational Biology"
+    },
+    "5252e97726d3626fbd5b3f483224ec11ce03684e16646e9dc15dcc92c0cd3761": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/6b9fa11e",
+      "published_utc": null,
+      "title": "Finding Nemotron"
+    },
+    "5285d416fb8b14c5ad9fed7f16efd2968dea1a6b2dbc2b2b5910de8c600d5909": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/d6f5844f",
+      "published_utc": null,
+      "title": "AI-Automated Film Making"
+    },
+    "529b7564a8a35bd7f5688bd4ca09a4dafccbac0b40629583428553e6101d24b0": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/a0ca552f",
+      "published_utc": null,
+      "title": "Elixir meets machine learning"
+    },
+    "52f73e980a05bd2d04a4b0f05a4e27d38603719f0063bc0fa0d3d10bf31c71f4": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/c37b5cd3",
+      "published_utc": null,
+      "title": "Insights from the AI Index 2019 Annual Report"
+    },
+    "53a75d2d0dc17e0f3c7acb39adcab604fbe1fe16d458e9529afdba2262f9e6a5": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/8c9648cd",
+      "published_utc": null,
+      "title": "Vectoring in on Pinecone"
+    },
+    "5504fbf255be11bb7768a5919c5f9f4de765fa221fa30d69453b3ae1d2448181": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/99ddb901",
+      "published_utc": null,
+      "title": "\"Foundation\" models"
+    },
+    "55f12f3991518ce11f7be8ab9be1314b07efd1d466fcc06c8f227055508be5bd": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/ac4fdee5",
+      "published_utc": null,
+      "title": "Social AI with Hugging Face"
+    },
+    "5726de926c4301ce673fe1a90aef26cea6fa33cdfa6e08a865cc93f36760470a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/b12abf7d",
+      "published_utc": null,
+      "title": "AI for search at Etsy"
+    },
+    "57591ed028a43f0e7f41676b9b90b6614f6e6414d31b5f7b784d544f91493137": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/2492fb57",
+      "published_utc": null,
+      "title": "AI hot takes and debates: Autonomy"
+    },
+    "5785c95a49756f1b21b3f4571891ad6e3a9b67cc5a9a12d65da85e4c56ef7ed0": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/0b827357",
+      "published_utc": null,
+      "title": "🤗 All things transformers with Hugging Face"
+    },
+    "57bcb87e741c11bdfacb029a776adff8c0e8619364a661882cc9956cf10a064a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/a1eb867f",
+      "published_utc": null,
+      "title": "Big data is dead, analytics is alive"
+    },
+    "580b13e223e804987bbed2a5ebdc3b26d73e9e561af3f1d5422c3ba18f9164c3": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/8799f3fe",
+      "published_utc": null,
+      "title": "Detecting planets with deep learning"
+    },
+    "58ac1e2233f8dca03c9cd4cd42c5b6fe76e545811e5723131675795d33a39f8c": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/7565e5bb",
+      "published_utc": null,
+      "title": "Meet your Practical AI hosts"
+    },
+    "597703f3f85e44f3d4472d48173b146b2c6e744cf9350af9b7798eae4c695393": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/2a3a610c",
+      "published_utc": null,
+      "title": "Using edge models to find sensitive data"
+    },
+    "59b5ea16cfe5b04515ecebf8772a29de66deedd00deaee4f5f49d2966e3c4023": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/306f6fbd",
+      "published_utc": null,
+      "title": "🤗 The AI community building the future"
+    },
+    "59e75a3be69d83f7617d9d5f0337bd9a782779afbb3d94261a9b79a8167df618": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/ce5ddd66",
+      "published_utc": null,
+      "title": "AI-powered scientific exploration and discovery"
+    },
+    "59e80cc1bc6fcc151efcc84f9c7d97bde381581107155905f6ae5bf60e72d5ff": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/8559b2a8",
+      "published_utc": null,
+      "title": "AI in the U.S. Congress"
+    },
+    "5a54e3a0e890542a0a954c2ca78a490565ec0c6b4d20b76d9f2c575137fb6e37": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/0243f082",
+      "published_utc": null,
+      "title": "Democratizing ML for speech"
+    },
+    "5ba4c1365ec71402fe1e672a1801d99cfb93bfd93dbb23e383b37126ab330601": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/937fd39e",
+      "published_utc": null,
+      "title": "Tool calling and agents"
+    },
+    "5c5d46fb6465478d522b16effc1b761e248fd99480ce64590b72c64bde9824c4": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/ffcbf272",
+      "published_utc": null,
+      "title": "Deep-dive into DeepSeek"
+    },
+    "5c6bd52e3a004413b0529c9ea7b346f72c229890ab5a08caff7003f2fd491082": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/6bc0689d",
+      "published_utc": null,
+      "title": "BERT: one NLP model to rule them all"
+    },
+    "5e9244bb7e52804993794111655062e419fb5f9bcfea8c539e84ca708ce3c564": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/14c3d6bb",
+      "published_utc": null,
+      "title": "AutoML and AI at Google"
+    },
+    "5f49fb76ad45b20a828085141c8a86de3f3a0ae2532f3d20341933d051d19977": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/444b43ae",
+      "published_utc": null,
+      "title": "MLOps is NOT Real"
+    },
+    "6056d59c4462c90ab2726e32f9a2fa4ef92fe45d76c2bfce35fdfac85e725bdd": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/d218af2a",
+      "published_utc": null,
+      "title": "Visualizing and understanding RNNs"
+    },
+    "60835460ce11f021204c12b5689f18ccfe6d397fcedee31f07ca6c41fea779e8": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/a422b8c2",
+      "published_utc": null,
+      "title": "Private, open source chat UIs"
+    },
+    "6201e45c96f53cd77dc0e90054288a1e287ba2d7f435f4f49c7fe663be9d7950": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/803b23b4",
+      "published_utc": null,
+      "title": "AI for Good: clean water access in Africa"
+    },
+    "6291b61ff9082b89c6c5ff80d996bef05e4324e1a271b05d3d842c68655d19ef": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/4873f35c",
+      "published_utc": null,
+      "title": "Metrics Driven Development"
+    },
+    "62974ef502e60eb59af69fbcd2992f11439184e55879f69bb1fecc3843d3d7cd": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/8dbe8848",
+      "published_utc": null,
+      "title": "GenAI hot takes and bad use cases"
+    },
+    "63471b68e1ae18f566ad1dd7484dadf209a36508e964b2c26a75f6f8dde8c5b0": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/d97b503f",
+      "published_utc": null,
+      "title": "Open source data labeling tools"
+    },
+    "646c9b0781b757938a29f88b8f4daef1e230bbe295c39de0d3b71a77a397f126": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/36c3d094",
+      "published_utc": null,
+      "title": "Next-gen voice assistants"
+    },
+    "651013dce21e4af09cddde5d83eb60616964298369c8c8867872b2082123d2a9": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/d3e7ab55",
+      "published_utc": null,
+      "title": "Data augmentation with LlamaIndex"
+    },
+    "653b96d05f8983e258b514861d37d84171a9840128971420cc997944a154269b": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/c9a98130",
+      "published_utc": null,
+      "title": "Learning to learn deep learning 📖"
+    },
+    "65480484d03cdc76bc03904ad535a8357e1b9888a2ca8e540f3e20e0952d9bbf": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/8a4f8e44",
+      "published_utc": null,
+      "title": "AI is creating never before heard sounds! 🎵"
+    },
+    "6563a81fe5e8916fa45e3249187af8468dffebb49b4b1548d6f313ea8d93ee31": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/1d3b3ebb",
+      "published_utc": null,
+      "title": "Deep Reinforcement Learning"
+    },
+    "666b85790afbbd45032490b671d1f0c2c12e2716940d46558c15d4e2812684b8": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/f10e6bbc",
+      "published_utc": null,
+      "title": "New year’s resolution:  dive into deep learning!"
+    },
+    "670b99660d8cb1e5900adb3270a2c9d16c935c82020bd17f9a5e9cc77692457b": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/1fb58384",
+      "published_utc": null,
+      "title": "Staving off disaster through AI safety research"
+    },
+    "6909f02996690f65d6aa4e506ffab4221ebe56b2a99f9dd96c2f76564d3d33de": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/57e1cd47",
+      "published_utc": null,
+      "title": "The nose knows"
+    },
+    "695e7f2b218cdf0781dd76db816e6114dd4cd6b8702e0549cb12428ada37d31a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/23880001",
+      "published_utc": null,
+      "title": "Advent of GenAI Hackathon recap"
+    },
+    "6a10b8bcd1c16b937bc2264bbae62c2616b50f94861d39f0b51444d178741982": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/661a4a9f",
+      "published_utc": null,
+      "title": "CMU's AI pilot lands in the news 🗞"
+    },
+    "6a7f58420b7d2a2ad57b373d13a27cc8c732a41edbb904d6e17204c0e788832a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/a3018119",
+      "published_utc": null,
+      "title": "Beyond note-taking with Fireflies"
+    },
+    "6a88289fb2d4312ce447ae25523bd75e0875fdb1d1d1c689cb898c43968fcf7a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/26f3adb3",
+      "published_utc": null,
+      "title": "Licensing & automating creativity"
+    },
+    "6b0ae11c52a9087c645fcc91cbde8e2939157501cfd74577fe4aa1c0f2435852": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/f72324fc",
+      "published_utc": null,
+      "title": "Balancing human intelligence with AI"
+    },
+    "6b5ee695857f4b4edf09e70784308fb0f48a34cfa98b1522ce0b401e64be3864": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/8565dc57",
+      "published_utc": null,
+      "title": "Answering recent AI questions from Quora"
+    },
+    "6b75da58d18bb44a0d6fe4b2a040d038a579fa507da267ae37ebc0530cf826bd": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/c4c7ce53",
+      "published_utc": null,
+      "title": "Digital humans & detecting emotions"
+    },
+    "6bc11909a89422e41922d150c58046aff99b6779813e5a963bfbbe706fd515d1": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/f4e7b59f",
+      "published_utc": null,
+      "title": "Emailing like a superhuman"
+    },
+    "6c47e62c764d6d570e35b5327f93f325f9a0da7ae7e77b88c541e467a8af24ab": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/5c0ca3eb",
+      "published_utc": null,
+      "title": "Blueprint for an AI Bill of Rights"
+    },
+    "6c6c05a8a2b04a7d00c38d4dfb319fbf9945a06773e7481742d7406c75975384": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/0744ac6b",
+      "published_utc": null,
+      "title": "Data management, regulation, the future of AI"
+    },
+    "6cf3979663e75fc81b88913bd0196538a3081ed92f55aeaf7bccf9781a3b8026": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/cca816a0",
+      "published_utc": null,
+      "title": "Accidentally building SOTA AI"
+    },
+    "6f2f25c8868b01b9c2844ce2dd84ced3bd33daa7a19d2bd28f8c48206020cc8e": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/da056f75",
+      "published_utc": null,
+      "title": "Self-hosting & scaling models"
+    },
+    "7188b2338b5733b476239542b819b736b0eda61bdceeb329b2a12f8933e1f44a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/9b15e695",
+      "published_utc": null,
+      "title": "NLP to help pregnant mothers in Kenya"
+    },
+    "7243b2728b5da42f0756f94b78e453057a220bdf1d762189225c637284a6cbfe": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/03f0ef99",
+      "published_utc": null,
+      "title": "Data for All"
+    },
+    "72d6b9d74cda004d88f13415ff2499f5f96f9d7097f01e00a371269d3acd54a0": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/ca7e5e7e",
+      "published_utc": null,
+      "title": "Machine learning in your database"
+    },
+    "72f25cf2bbc7ecd5028a1c0f6fa172cdfab28361cdb4cf5e1310d3d560c85305": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/9ecd8c10",
+      "published_utc": null,
+      "title": "AI IRL & Mozilla's Internet Health Report"
+    },
+    "733add097691c782eb7a3b765c4f115d4750730924452c30988082a20f7f3de0": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/209b5978",
+      "published_utc": null,
+      "title": "Killer developer tools for machine learning"
+    },
+    "737403d8afa53d180c5be53c881ca44034429dd2b696b77ac7fd842ed318b2e8": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/bdabf9ac",
+      "published_utc": null,
+      "title": "First impressions of GPT-4o"
+    },
+    "73c54636ad86927931c53ab35cff99e4a12781083bdc5b83038af59dcbbcb6f7": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/8d59e904",
+      "published_utc": null,
+      "title": "Automate all the UIs!"
+    },
+    "766448c9e34e97264ad537c94690f16963891207b4afa588450e7a2acdb5aa25": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/533b0b3f",
+      "published_utc": null,
+      "title": "Are we in an AI bubble?"
+    },
+    "7682a135071affc7bd285c609555dda281edffad214d06ca5a75c4956622dd2e": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/020a47bd",
+      "published_utc": null,
+      "title": "Modern NLP with spaCy"
+    },
+    "76a8d46df636c2331ecf3850f5f65a4d6b0e54ed1291e328047e98fca58e2282": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/7c0d66df",
+      "published_utc": null,
+      "title": "AI-generated code with OpenAI Codex"
+    },
+    "76f87d8aa63352a4a3af0bf7c38c9dd0f98709c7e48bcefab187bb104abac4b8": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/c56e1572",
+      "published_utc": null,
+      "title": "Green AI 🌲"
+    },
+    "7709ca1b3cfa13e1d8ae3ab1071c65ea076d6812bcd2bac5904a1823317595b3": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/89070208",
+      "published_utc": null,
+      "title": "AI code that facilitates good science"
+    },
+    "78797a432ac948c8fbf64f538f173b6a6e0584c43c45ac35af89c823b71d9453": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/4c8b3258",
+      "published_utc": null,
+      "title": "How Microsoft is using AI to help the Earth"
+    },
+    "7912017c5ed3fb0acefb8bee33b7777dd4ae7d3dc5172457c7e95b54b7bf5b40": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/a3d121af",
+      "published_utc": null,
+      "title": "Attack of the C̶l̶o̶n̶e̶s̶ Text!"
+    },
+    "799d7ed53dda695957f0155d7af8d4d99fde2a66c448483a45e3db82f94b1a0e": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/9ed77cb1",
+      "published_utc": null,
+      "title": "Cooking up synthetic data with Gretel"
+    },
+    "7a90448c7f181786c92c3b3e481e67ba44f35f724ed293aa8e44af2ae8e72bdf": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/2cd2558b",
+      "published_utc": null,
+      "title": "3D assets & simulation at NVIDIA"
+    },
+    "7b3583967501e3f5649d726f006fcd5556258b615577b00ff10c6500b167d7a2": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/5727b584",
+      "published_utc": null,
+      "title": "Collaboration & evaluation for LLM apps"
+    },
+    "7b87e53e776e1a76284223145b1560bddbcf65bfc297d24f8bb3b19942a8074d": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/37d37fd8",
+      "published_utc": null,
+      "title": "Government use of facial recognition and AI at Google"
+    },
+    "7d38d64cd29869340c2c2870e87319d62631ca6246be25f0af35102e3da6bcc2": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/1f75eb41",
+      "published_utc": null,
+      "title": "Getting Waymo into autonomous driving"
+    },
+    "7ebbb872839b2826895c9d5e51ddd6a4d44332eb06ecb44f89077555b86bcea8": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e07c06a1",
+      "published_utc": null,
+      "title": "Stellar inference speed via AutoNAS"
+    },
+    "7ee9488beafd52cf0e4ff4e4a3312eef8cb991f4ae1804086d549aedff64461f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/dce6df9c",
+      "published_utc": null,
+      "title": "The first real-time voice assistant"
+    },
+    "82a440e859cf3f6321ddabe1780e6f17772ad2c82dd36452fd097e50cdded9f4": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/d3329d33",
+      "published_utc": null,
+      "title": "From symbols to AI pair programmers 💻"
+    },
+    "83d4515262d383186e9f7cbdd29e79ed7e70dec0a7aa840f8c17612b8cf05302": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/ca41b93c",
+      "published_utc": null,
+      "title": "While loops with tool calls"
+    },
+    "84449bb5fc5e113198357da54ac21f68e9c5ebc1f3d21fa62ce93a0e0c1b375f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/f311cad1",
+      "published_utc": null,
+      "title": "Generalist models & Iceman's voice"
+    },
+    "8514959dda70bea9ac57c591411e5accc8aa0ab9b082aade9b777319894cbc8e": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/2bd0e363",
+      "published_utc": null,
+      "title": "One algorithm to rule them all?"
+    },
+    "855bc554529c9d862c7fca49d179be238d7dbc51eff037b91d60bed3eba6682f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/651a136d",
+      "published_utc": null,
+      "title": "AI adoption in the enterprise"
+    },
+    "8596eef18a6e81d4436d7f743e211bfdb279aacdaeda24c5cd310e1e9bb4d26d": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e3e8f060",
+      "published_utc": null,
+      "title": "Generative models: exploration to deployment"
+    },
+    "87e521a724a2b0c17b39edc43c4d3bb03dee8c976f3d9580e6a72f03fa2eb2f1": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/8e2526bc",
+      "published_utc": null,
+      "title": "Protecting us with the Database of Evil"
+    },
+    "8831811e94af9e1005bbbc08e2383648f2775dcfca0c025ca21bd9394f116a88": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/7bcff241",
+      "published_utc": null,
+      "title": "When data leakage turns into a flood of trouble"
+    },
+    "89d2d5e6ff128f5e042692e415d67c1216e88141395c7e72515d942226057bd7": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e4bc043b",
+      "published_utc": null,
+      "title": "Creating instruction tuned models"
+    },
+    "89e53e067724bf8edc2b9390be84fdfbbb0ad6dc46aeb0b28978f93d33b7258a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/244d43df",
+      "published_utc": null,
+      "title": "Anaconda + Pyston and more"
+    },
+    "8abf6934938eb279c07095b98b0965eeb648a406f87d6ea456b58b7bfe8a0072": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/305891d5",
+      "published_utc": null,
+      "title": "Copilot lawsuits & Galactica \"science\""
+    },
+    "8b4215bbb1b7196d443326da48bb9814ac82ae8a6bc1df5784eec02ebfbeae44": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/81e8d2c6",
+      "published_utc": null,
+      "title": "AI adoption in large, well-established companies"
+    },
+    "8bec14ad4b4b315aafa97fa898c38f9f99e22b9fe957cea64f5de3453069ddf9": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/edad1d61",
+      "published_utc": null,
+      "title": "Automating code optimization with LLMs"
+    },
+    "8d6fbf2f21746fdfbcc755cfddf85cff0e1e307c5a389675096d993bd4b1afcd": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e283a9d0",
+      "published_utc": null,
+      "title": "Federated learning in production (part 1)"
+    },
+    "8d92c0f486f2afe91b5ca89a91a7cfa93ec4c5043ccf3506cabbe56bfe3a1481": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/7af850a8",
+      "published_utc": null,
+      "title": "Production data labeling workflows"
+    },
+    "8dc409a74d330a38ddd7992cea0a260522f9e9fd4d7db68fdba1506eb53a8e0f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/cfbb1e52",
+      "published_utc": null,
+      "title": "Pachyderm's Kubernetes-based infrastructure for AI"
+    },
+    "907008f75f9f8827633d3a6f255801881001f50e4597bbdfe33138b40c865ba1": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/2e2248f6",
+      "published_utc": null,
+      "title": "GANs, RL, and transfer learning oh my!"
+    },
+    "90cdf5d94de4ce91ae4aaac15a8bb6abc2dc1da189d3df155a8bab87f6cc15b0": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/a8f33aaa",
+      "published_utc": null,
+      "title": "Eye tracking, Henry Kissinger on AI, Vim"
+    },
+    "9207271dc60ab9667c04ed68fe0726bf822f9896adc8e15b31476391d16dda09": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/20514e97",
+      "published_utc": null,
+      "title": "Representation Engineering (Activation Hacking)"
+    },
+    "94943dc0e2352f234dbc8406798d68f1516f9be50042a7652a3909cc6ce66c6f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/732541e8",
+      "published_utc": null,
+      "title": "Broccoli AI at its best 🥦"
+    },
+    "9659f3c94ea1defe1dc995a0c44f82bf6b3979ba003b3bca0fcaa9dedfde4471": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/ab7644a6",
+      "published_utc": null,
+      "title": "Mamba & Jamba"
+    },
+    "97255f107e0d0691ffd78ea15a7be08062757f4185a25e8fc721466509fa9fea": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/50dfee77",
+      "published_utc": null,
+      "title": "It's been a BIG week in AI news 🗞"
+    },
+    "97519076b7837355972e33a6b4cedcf0e0d2bcde9ce517afe981f57fb3fb19de": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/c4fc104b",
+      "published_utc": null,
+      "title": "Finding success with AI in the enterprise"
+    },
+    "98ed916511279a6c0a14d826e578755d94bfad6869be5a0fa68e4b1f4861c140": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/f5a16bd0",
+      "published_utc": null,
+      "title": "Sidekick is an AI Shopify expert"
+    },
+    "9b6387fb9051295359634d92a8874bfc8e9c893d0ba48041a7da81e0c148bc9a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/7c4c29cc",
+      "published_utc": null,
+      "title": "Video generation with realistic motion"
+    },
+    "9c053404c9b33c7903f1abaec86dad434e1b890c6437fdb17cc1c1ababba4b93": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/8622cee9",
+      "published_utc": null,
+      "title": "Blacklisted facial recognition and surveillance companies"
+    },
+    "9c0fadda20ef09c78f7f15bdeaf9b1fbd53609d748445abce3de67ebc8af1dab": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/35fff0ca",
+      "published_utc": null,
+      "title": "Pausing to think about scikit-learn & OpenAI o1"
+    },
+    "9c6d5f09830e6648a465f03a51f220a36e73213995a3bb7c9d28172dabd86f93": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e3b2b9e8",
+      "published_utc": null,
+      "title": "🌍 AI in Africa - Voice & language tools"
+    },
+    "9d1159ae9701d7e4002c8d4bb7ba13fa1d25c39d664bb8ef2d0f4782dc97d257": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/ba93c83c",
+      "published_utc": null,
+      "title": "AI is more than GenAI"
+    },
+    "9d28bb0681bc81bc39826721b64b7893b7a0c0059c517ae0b3f4df7f01e3fe12": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/20701c82",
+      "published_utc": null,
+      "title": "Practical, positive uses for deep fakes"
+    },
+    "9d3c4c7a92870d3c6ccc582c4482385416ac80da11ce5ac8a10cfc146db77687": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/cb62bd49",
+      "published_utc": null,
+      "title": "🌍 AI in Africa - Radiant Earth"
+    },
+    "9da5a9d66d1830859aa8ef1c158af8e85b60642cfca8cc81aefb8bc75a881a3b": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/3cd50c4c",
+      "published_utc": null,
+      "title": "AI for social good at Intel"
+    },
+    "a09829ceb263ec529d8488d0b3e09e3777bcaab996bfff298475df87120ef39e": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/6529119a",
+      "published_utc": null,
+      "title": "Analyzing AI's impact on society through art and film"
+    },
+    "a2090bc9f4e7ab1930dfc13601a5514b2124ed7a10daeafd00e5d46d86317422": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/30369d53",
+      "published_utc": null,
+      "title": "Multi-GPU training is hard (without PyTorch Lightning)"
+    },
+    "a2d1ee529d1c2e7f770c9e214d42758b2bdfd685735991fe94f9065c4ee03abe": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/c3fd1221",
+      "published_utc": null,
+      "title": "Explainable AI that is accessible for all humans"
+    },
+    "a35b52e76a7f330b33263c018d3f60234f19f088aafffd1c143fc4b361595c9d": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/b9e3dac8",
+      "published_utc": null,
+      "title": "PyTorch 1.0 vs TensorFlow 2.0"
+    },
+    "a392cf28a5cf64a29c8ac8c11795ddd7b46e21d2c3301beb7f4da21f02c79d3d": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/9d384fbd",
+      "published_utc": null,
+      "title": "The fastest way to build ML-powered apps"
+    },
+    "a3a583ec67618acb3e68601ce9fa39ea0321e37e6b2dc55346e95e83f2542cd4": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://practicalai.fm/takeover-mmai-304",
+      "published_utc": null,
+      "title": "Technology as a force for good"
+    },
+    "a468faff0ed80a66d3777f149fc6c529d424d8952d068beb926eddc68ef5d3ab": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/3f7b3ef6",
+      "published_utc": null,
+      "title": "Full-duplex, real-time dialogue with Kyutai"
+    },
+    "a5204255b7440597025cd647b00dee76187d269320edf1b976eb2b5f6fc5f85d": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/ac57faa4",
+      "published_utc": null,
+      "title": "The ins and outs of open source for AI"
+    },
+    "a5556672ecfadf74d2ea8e1a05b8f08f2b136b353caac7e9fbcb459253dd7d32": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/9b817c8f",
+      "published_utc": null,
+      "title": "The landscape of AI infrastructure"
+    },
+    "a5d1d963171bb3b9e570d80e79ecdb5b64dd26feaf6466db4d6bbbe7b2959be5": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/ecbd3038",
+      "published_utc": null,
+      "title": "Build custom ML tools with Streamlit"
+    },
+    "a60938c878190474c65f255d3af46ea54d58244a22d1481ebeb225456a105edb": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/01c0f408",
+      "published_utc": null,
+      "title": "What exactly is \"data science\" these days?"
+    },
+    "a7058cf744c4fa2a5246ae5a8a2a273a32f89c4aa93638fb083d3d3275cfff44": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/a56eaecd",
+      "published_utc": null,
+      "title": "Success (and failure) in prompting"
+    },
+    "a75768474a0b89c88262fc94d5d5e60801771d64554dc0c718136352f3408a0a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/11dc4d43",
+      "published_utc": null,
+      "title": "Deep learning in Rust with Burn 🔥"
+    },
+    "a7f1e2ce9bcaf790c7ba73df41e5b31f11f7314c6773081c3756e87522641680": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e56ce463",
+      "published_utc": null,
+      "title": "DALL-E is one giant leap for raccoons! 🔭"
+    },
+    "a8683c3ab31e64513451fd133ab175b17d5ecbd14f3e11ba9e6331d6c8005128": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/8e44d5e0",
+      "published_utc": null,
+      "title": "Large models on CPUs"
+    },
+    "a88b032de36906933ae3ddce39200945621a848e15619b60eb7eb862034282dd": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/a952cb30",
+      "published_utc": null,
+      "title": "Educating a data-literate generation"
+    },
+    "a8a6e857cd2be96a4a8c56b9a253e6c4d412c604837751739422124ede29ca1b": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/ba36c917",
+      "published_utc": null,
+      "title": "Technical advances in document understanding"
+    },
+    "a972506e104930b28f5bbf8fd3af1857861d1c58dc618521d034ee25760cf559": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/55498544",
+      "published_utc": null,
+      "title": "Reinforcement learning for chip design"
+    },
+    "a9b755326fd591ad222ba3edd0e4ec7a6d573de02bf5065eccb2bebd642776f7": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/7d6e8141",
+      "published_utc": null,
+      "title": "Exposing the deception of DeepFakes"
+    },
+    "a9b98b9ec353dd7420673008448d6f07007a32d43e0dfe6a003e12ab20c6d48b": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/182d8f69",
+      "published_utc": null,
+      "title": "NLP research by & for local communities"
+    },
+    "a9fa00c705445d4def6f0b83e7546a3e1ddc049a6af36b7c4b9c127d2435b2ef": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/8bb2b368",
+      "published_utc": null,
+      "title": "AI trends: a Latent Space crossover"
+    },
+    "aa49d01e69de0be0b732af5d9598e9f375e313d4e8eb1e0787e28292d70ae253": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/bec4b1c2",
+      "published_utc": null,
+      "title": "AI vs software devs"
+    },
+    "aa67db5e560af3d699823807781333ee97cc530ed35730957f0a6a8b02d84711": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/03e961bf",
+      "published_utc": null,
+      "title": "AI's impact on developers"
+    },
+    "aa8780aa91d53b82eb51ac9be452b339c29ca01f85be5990967cfb534852d3b9": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/9cf347ca",
+      "published_utc": null,
+      "title": "Friendly federated learning 🌼"
+    },
+    "ab68e6173e06487037b07b7f53107c214e8ecad7395563d9e73f3fd49cf67195": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/b11c3f2d",
+      "published_utc": null,
+      "title": "25 years of speech technology innovation"
+    },
+    "ad05cd567b99dec3d12813bd167a0607abaad893f9b134ec84b3393b84172faf": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e0bd1784",
+      "published_utc": null,
+      "title": "Udio & the age of multi-modal AI"
+    },
+    "ae072c3a3ef03101ccd447431810ddad9fc2779359a7fd5463566187c1ec889a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/21c4be99",
+      "published_utc": null,
+      "title": "Behavioral economics and AI-driven decision making"
+    },
+    "ae4e7c30ca23bc5ab92235b6706486971f6531ca0572a73727850185036e97f3": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/483a51a6",
+      "published_utc": null,
+      "title": "Practical workflow orchestration"
+    },
+    "aeeab3ec224a9009b4b7cd1dd894a9cb9d27aea608ef73adcd32c86f7bd5b417": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/cd022cf4",
+      "published_utc": null,
+      "title": "Exploring NVIDIA's Ampere & the A100 GPU"
+    },
+    "b050af1f5c854818b6373ed9f4806b011683309004210c039bc6ee916f85f66e": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/05d1bf50",
+      "published_utc": null,
+      "title": "Confident, strategic AI leadership"
+    },
+    "b19940d55e1816ad8c47349fec48500c4479bd2a21a244d24b918f20e6198562": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/99147ee2",
+      "published_utc": null,
+      "title": "The new AI app stack"
+    },
+    "b337e0c68eeec7f3ed0da364e8755384e89dabe39101a9fb8b203bdeba284d74": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/6bb43cbc",
+      "published_utc": null,
+      "title": "Explaining AI explainability"
+    },
+    "b41ace496d50d8fc7203c73d2ff06e3cd993d8c72c0ac87b08b50aaf7fe4dbae": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/c2ab9c38",
+      "published_utc": null,
+      "title": "Seeing beyond the scan in neuroimaging"
+    },
+    "b4ff432f3efa2c2fb86881d8636e37359d1562735ee9ec4d0dcdb245f8a06b9f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/ecf7df49",
+      "published_utc": null,
+      "title": "Practical AI Ethics"
+    },
+    "b5833b573bd395a363d42a9447f4588b8abab99554fbefc94d1706cdcc37195f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/b689d135",
+      "published_utc": null,
+      "title": "Robot hands solving Rubik's cubes"
+    },
+    "b63d8f213ede58fde9be9e1756ecb199e7fb6cf87428ad5bbe925483923111c4": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/b1def249",
+      "published_utc": null,
+      "title": "Automated cartography using AI"
+    },
+    "b78c97af95c09be0a35bcbd7377b9b8125573199270c8b127e56d3e88c84dbbe": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/03647f6d",
+      "published_utc": null,
+      "title": "AIs that look human and create portraits of humans"
+    },
+    "b88fc3d81508f933f747b9c15d764b5db773fb77e1c033035afa9f095479a3da": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/2f7547c3",
+      "published_utc": null,
+      "title": "Behind-the-Scenes: VC Funding for AI Startups"
+    },
+    "b8ac137f7962ab797a71642bbe6dc143a9982d9b1209ba01ff2bf0857d0cae16": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/b9ef03c1",
+      "published_utc": null,
+      "title": "Learning the language of life"
+    },
+    "b8c338aab81ec8ef3ded04beb03fb1deb7500ebc37869ee048f27ef086880ef8": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/54496c57",
+      "published_utc": null,
+      "title": "Clothing AI in a data fabric"
+    },
+    "b8c8c3e0c84c3fc0b2577d5693537aeaa7cad31d71c43cb4683ada61f7d86696": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/75950ab8",
+      "published_utc": null,
+      "title": "Testing ML systems"
+    },
+    "bcf0cb8ad9d7c42e660ac93b2481cf36cdb4bab52883d55f39205f77443ae238": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/6b01c808",
+      "published_utc": null,
+      "title": "Engaging with governments on AI for good"
+    },
+    "bda7775f23fd73920afdb70090ab8ce24e067de66a36b6ad21b2d78c19478f3a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/574712ac",
+      "published_utc": null,
+      "title": "AI in the browser"
+    },
+    "be3d3b040b2c5ef258ea65ce72c4ee42946e0aea3c2414c36b816b1655d56893": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/5b2fa5b3",
+      "published_utc": null,
+      "title": "🌍 AI in Africa - Makerere AI Lab"
+    },
+    "bfdd2f4615783019bc42d972c62f1dea05b4778b3ca84e848d678faf091f0802": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/8a83cc68",
+      "published_utc": null,
+      "title": "Exploring a new AI lexicon"
+    },
+    "c002975f21fc9dc2a2e8390becd5af2a7d68363921a454cb3df69a7720ca41b1": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/9eebe810",
+      "published_utc": null,
+      "title": "Autonomous fighter jets?!"
+    },
+    "c02ac49ba1aa6410649709a837a6d8b4517c67aca9a19e22b3bd1c0966ec39ae": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/796ef477",
+      "published_utc": null,
+      "title": "AI predictions for 2024"
+    },
+    "c125697f308a26d368753ea92a7457568a313f215841584139cda3f7e211e2d0": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/9e65312d",
+      "published_utc": null,
+      "title": "Gemini vs OpenAI"
+    },
+    "c1424ff0019f39837538f5fd8093c217dbc829ae6cce9ac8241f916d3a7e41dd": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/2cde3de8",
+      "published_utc": null,
+      "title": "Cracking the code of failed AI pilots"
+    },
+    "c160b4dd3b915577120e1b18147eee49e7341213d242c4ff42c6a087379148ab": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/de752b57",
+      "published_utc": null,
+      "title": "Generating the future of art & entertainment"
+    },
+    "c1aeba3119b06289bdfe50a855bffe560ca7801ee93b07ca608880486ac1df2a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/000d78dd",
+      "published_utc": null,
+      "title": "TensorFlow in the cloud"
+    },
+    "c1f5b82bf7c87a6e2eb666fd5f8cfdba7c2162af2074f5c6bd4f2abb979bb370": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/25e6c751",
+      "published_utc": null,
+      "title": "GPU dev environments that just work"
+    },
+    "c2089b10ef6eb6b03a0ec764ecdf55d2f13687a64394930b987f4abebf095681": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/b701f20b",
+      "published_utc": null,
+      "title": "GirlsCoding.org empowers young women to embrace computer science"
+    },
+    "c23e143105b647ef86cb974844b651ec9f98001f6f5872df5d2169e803f5c717": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/652123fd",
+      "published_utc": null,
+      "title": "MLOps is alive and well"
+    },
+    "c2b053ac06b23d3ce08c91874328884841f30ce53dde1e0137993e51de3c25a5": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/f94923db",
+      "published_utc": null,
+      "title": "Hidden Door and so much more"
+    },
+    "c2c7add14893fd2665878ad027ff5a7ad53f0ff6dc0155921dc4cc399525e75e": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/62b03a44",
+      "published_utc": null,
+      "title": "Speech tech and Common Voice at Mozilla"
+    },
+    "c37122e741439a8f76a93cd0debd4f837382d94997a2f9f855672bdb4cf4a14c": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/0c672de3",
+      "published_utc": null,
+      "title": "Evaluating models without test data"
+    },
+    "c38e7bae524d95bbada214b1acef91c515df589f36dd7ef5a9abdb10fef8e72b": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/74c2ba01",
+      "published_utc": null,
+      "title": "From notebooks to Netflix scale with Metaflow"
+    },
+    "c3a2c401d42fae7dd09c72820df94fca441f45926d7f23eaa98a4a102a5d663b": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/38a4b5e2",
+      "published_utc": null,
+      "title": "The path towards trustworthy AI"
+    },
+    "c4e957cf4b3cc014950cb0991db6dd4b913cce9f17ac0a01a32c2d9cd33ca519": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/2e62c4ad",
+      "published_utc": null,
+      "title": "From ML to AI to Generative AI"
+    },
+    "c4f029165c12f3824a89752d9b978472564c2e30d1964f4884ceb04b3028675b": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/d38492e4",
+      "published_utc": null,
+      "title": "What's up, DocQuery?"
+    },
+    "c5a048a9796237a51a8339f1c481ba97b65b8610e5a5492dd22ef9982e518fe3": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/0559fa43",
+      "published_utc": null,
+      "title": "Artificial intelligence at NVIDIA"
+    },
+    "c5eed54c60a422f3926dae01472cb4b96c490660d8f38d5d17921a590d4a1ec8": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/2fc8428e",
+      "published_utc": null,
+      "title": "Building the world's most popular data science platform"
+    },
+    "c5f689159fd8985bdd57af61538b9e328693ba1410e7ae0a9f50a5f698855c52": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/31fe69cf",
+      "published_utc": null,
+      "title": "Exploring deep reinforcement learning"
+    },
+    "c5fc95f27ec2a528ec72d836c4db0f1f7c7015ba55702a9f7e0ee3c3627f6039": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/bcdc7f10",
+      "published_utc": null,
+      "title": "The White House Executive Order on AI"
+    },
+    "c63ab5bb742d699767a7205f5c234823337f48bf15bcbbd78a37e443da48b2c3": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/4329d9ec",
+      "published_utc": null,
+      "title": "Escaping the \"dark ages\" of AI infrastructure"
+    },
+    "c65f644d0a1a8f6ecef3fd6c9f653aaccd12dd6e8526e69a25f9f3d9f875cd92": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/096a1573",
+      "published_utc": null,
+      "title": "AlphaFold is revolutionizing biology"
+    },
+    "c68d72770397c37d36f7653a4d520a6c480da062eae407e4e47f4d8b2ed53a75": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/464f3f1b",
+      "published_utc": null,
+      "title": "Serving deep learning models with RedisAI"
+    },
+    "c6de7ccbbf0c45b3ecb1fd53a610628cb0cb36dc78652ff21e1449b51e150f16": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e1f7a9a9",
+      "published_utc": null,
+      "title": "Stable Diffusion"
+    },
+    "c75f8073002499236bc32d3a1aae3d07057ae2967ecb7e3301daf532dc2cfad7": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/1189adf8",
+      "published_utc": null,
+      "title": "2018 in review and bold predictions for 2019"
+    },
+    "c77a8344ff7d2aa2339ca86cdc0b0ac4f6a55d2dc5715d97f07b13ed78d7e8a4": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/df3622cd",
+      "published_utc": null,
+      "title": "Mapping the world"
+    },
+    "c848de553048ca9c829b3ff474c529cfad036d4e49dba238b42eb682757fb359": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e15efb1f",
+      "published_utc": null,
+      "title": "AI search at You.com"
+    },
+    "ca3728a068494386ca52e1dc9057e36f7b0b9cc260287d50c82fb51e5c8ab889": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/df5b1946",
+      "published_utc": null,
+      "title": "MLOps and tracking experiments with Allegro AI"
+    },
+    "cadf0d25c53067b40e91a94d9e594f4850375bca9e3950fbf0e90810db016312": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/2acde001",
+      "published_utc": null,
+      "title": "Robot Perception and Mask R-CNN"
+    },
+    "cae8d7fede3cecb8c5bccdbf5cc6d2fa33ce41eb3f119d30c50425b914af873a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/bebc875e",
+      "published_utc": null,
+      "title": "Hybrid computing with quantum processors"
+    },
+    "cdcab5256c0dca1b3ac90d32b5d053493568ab713385303221e5329a8504e14b": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/254d82f8",
+      "published_utc": null,
+      "title": "Hyperventilating over the Gartner AI Hype Cycle"
+    },
+    "cea552135442925762e2235447e8c4cd30bc61299d3781a1c73bf5047dfa1a5a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/2196a4f4",
+      "published_utc": null,
+      "title": "Computer scientists as rogue art historians"
+    },
+    "ceefed3dde221e619479b6e3c166faf4cd9c10836f4cabaf853e4cf8283592ee": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/38b5e899",
+      "published_utc": null,
+      "title": "The state of open source AI"
+    },
+    "d071dfbfbf3e91fa3afa7c758c7a73beca356e7654060b0816fb4720a75b6c45": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/fb45563d",
+      "published_utc": null,
+      "title": "COVID-19 Q&A and CORD-19"
+    },
+    "d1c51aa9d68412407cfab7ba4d813136206b69c8393c4a7d9d25d29298f9052f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/0f938d24",
+      "published_utc": null,
+      "title": "Intelligent systems and knowledge graphs"
+    },
+    "d25d14d47db29100d970e8c1415b94871e770dd6b670d1e7c02d549fab6206ab": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/f1d4db4c",
+      "published_utc": null,
+      "title": "Getting into data science and AI"
+    },
+    "d2e062d39f85a8e7dd71ba8f4abba49fac9d72e0b09473674658b7039afb3168": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/c991de23",
+      "published_utc": null,
+      "title": "Open source tools, AI for Dota, and enterprise ML adoption"
+    },
+    "d3b9003b1ea109e075c06a06a0bba1e34adb9f459f474deded538d2162938eaa": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/af180c44",
+      "published_utc": null,
+      "title": "Towards high-quality (maybe synthetic) datasets"
+    },
+    "d404d5c17857536cae264ebdec6054bad204b4917854e2ca0e90783856b607a1": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/04a91808",
+      "published_utc": null,
+      "title": "Mozart to Megadeth at CHRP"
+    },
+    "d4a812e966202ca8b9e996d566e47ed34a902e33f5dd69e5ea6ac923775c495e": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/ce204655",
+      "published_utc": null,
+      "title": "Suspicion machines ⚙️"
+    },
+    "d50899013231ad6034df30202dc07d53e2020ba1db41cbce14158f4a6215b989": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/f9da825c",
+      "published_utc": null,
+      "title": "Inside America’s AI Action Plan"
+    },
+    "d606f6e7ba880542eb14a1d43ecf7d5237d6c2678014adece5a59e74271b0dd5": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/311a1f1d",
+      "published_utc": null,
+      "title": "Causal inference"
+    },
+    "d6b9f4da1dfac2019877ca9dec34051dcf66ee58bb62b56415b8cac87c03fb17": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/25d635e8",
+      "published_utc": null,
+      "title": "Apache TVM and OctoML"
+    },
+    "d6c3bdfbb033f581a9d82bee929b8dfb696b60a0e18600e21fed1f5c1b2cc6ee": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/22650fd9",
+      "published_utc": null,
+      "title": "Low code, no code, accelerated code, & failing code"
+    },
+    "d7f96d4c982ab794d5b3ffffe1c0336a41b7e4005d063643d4ddb46c52c6a3ff": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/f12c2f5e",
+      "published_utc": null,
+      "title": "When AI meets quantum mechanics"
+    },
+    "d843b2f085176786f7e12e2a55306b3f2d62d24eb9052f8ee8aa71a5313080f1": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/8f9f5eb1",
+      "published_utc": null,
+      "title": "Deep learning technology for drug discovery"
+    },
+    "d92c012bdb2458ea5ff9c418fc9df1c8f8572fcc509089546f7ef84333cde56f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/3df4a8e5",
+      "published_utc": null,
+      "title": "Fine-tuning vs RAG"
+    },
+    "d99de377ff40bab399475317ce733d941f04d09d91c17873b745e068f5f57190": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/29f0af23",
+      "published_utc": null,
+      "title": "How to get plugged into the AI community"
+    },
+    "d9f6e2998344f293f93e6c8ba83b5e1b94cd45fda10e08c8297a1df5fd1b2aca": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e568790b",
+      "published_utc": null,
+      "title": "Tiny Recursive Networks"
+    },
+    "db3e0d6d492e12fd442e88646e10464c86dd3da297f9ed44d3917288aa600974": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/c0861e4d",
+      "published_utc": null,
+      "title": "Building a deep learning workstation"
+    },
+    "db5fa2528f02a55f7dc34540870d9d2d5d4489f80297489d69455a32dd20f22c": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e60866e6",
+      "published_utc": null,
+      "title": "Dealing with increasingly complicated agents"
+    },
+    "dc599b7559d6ff1fb4b96fd0cd03e56e9295b6b00be1ed2882711af2cc0dd449": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/bb2174ee",
+      "published_utc": null,
+      "title": "AI competitions & cloud resources"
+    },
+    "dcdd5b2aa2705d04b1b2198d7e299d33f0f69e8efeafff5b6ba3e2e75b36c0d6": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/39ef8e3f",
+      "published_utc": null,
+      "title": "Cloning voices with Coqui"
+    },
+    "de036723b4a41336d68a4a03ff04b42b1c8eee9487e9fd7a9061ee722bee4775": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/50483491",
+      "published_utc": null,
+      "title": "There's a new Llama in town"
+    },
+    "de23c228cf9a434a78118a6d1a5254d79dbcb477a3830c74723ca48285eae71e": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/49afc59f",
+      "published_utc": null,
+      "title": "Beyond chatbots: Agents that tackle your SOPs"
+    },
+    "dfe8f312c31d4887e746834913fb10b248a8375ba75ccf9a44560117daca1160": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e70550d7",
+      "published_utc": null,
+      "title": "RAG continues to rise"
+    },
+    "e0b1a17eb8c573c9e1f6d6d44ad2b73f07956642ea89994e4b81f8d405cc8767": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/b5914d1d",
+      "published_utc": null,
+      "title": "Full-stack approach for effective AI agents"
+    },
+    "e0d87a9cf1764ce69487e49a72ccbf8557bcc335b0e42240a889568080da136b": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/ec2e05de",
+      "published_utc": null,
+      "title": "CTRL-labs lets you control machines with your mind"
+    },
+    "e1613ab7a21471522ad0b62db391969157b27c953a4b54af6f0977fe1f17bdd2": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/424fa922",
+      "published_utc": null,
+      "title": "Vector databases (beyond the hype)"
+    },
+    "e25af1f16900a0492369fc425f2209275d59fd3cf72bf8303455fa7f624bf6b3": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/05cdbb35",
+      "published_utc": null,
+      "title": "Accelerating ML innovation at MLCommons"
+    },
+    "e2dd1f89428590f39cacc86f2cd69afef1b4a8a8f67b5073b5713d2b36dc04cd": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/2f2d4693",
+      "published_utc": null,
+      "title": "How the U.S. military thinks about AI"
+    },
+    "e30118258d8f74ea40115f744e211426ac001d97a41ab137150a78dda5a432b8": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/60675819",
+      "published_utc": null,
+      "title": "AI in the shadows: From hallucinations to blackmail"
+    },
+    "e35a5faa7919c54fd2b4c64bb07f1d8b533ef6983bb1a50bf271cd68634e0604": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e1e293a9",
+      "published_utc": null,
+      "title": "GIPHY's celebrity detector"
+    },
+    "e3e8061b9f29d44859f879e6220d9416861cc601697c03b9b8d192578c9241b8": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/14a3c811",
+      "published_utc": null,
+      "title": "AI's role in reprogramming immunity"
+    },
+    "e43990a9cafe49bf132f37448e5569ca00b27889321b0f61172426ad9f3f4e54": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/85a03199",
+      "published_utc": null,
+      "title": "OpenAI, reinforcement learning, robots, safety"
+    },
+    "e50e4dc6353224bbcc2238760f6b45851922e15741c7683420dfb01c6342838f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/fb39a0d8",
+      "published_utc": null,
+      "title": "Optimizing for efficiency with IBM’s Granite"
+    },
+    "e72276f15aef4ffe62666e1715045475d2183ccc9822f7e4616be31b43f7d920": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/a95b21be",
+      "published_utc": null,
+      "title": "Vector databases for machine learning"
+    },
+    "e8ce7a263a35cb0d673c7f0819f3ea13a7297536e4de8bcfda9f9e83543d1baa": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/3bb0fb91",
+      "published_utc": null,
+      "title": "2019's AI top 5"
+    },
+    "e9cebe99e586951116a01663c98bf4a603c40d1cf9d0b582e880037211c18ed4": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/341de7b0",
+      "published_utc": null,
+      "title": "The world's largest open library dataset"
+    },
+    "eabcd0e8f18d40fad5aae1ab2fa5c1f754aac3440042a39b90b4a447d194e14d": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/de9cc636",
+      "published_utc": null,
+      "title": "AI-assisted coding with GitHub's COO"
+    },
+    "eb594bca3d8278532ec17f599b8d5e3343a16a3df9d66353476f73c306f7620a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/8b358e66",
+      "published_utc": null,
+      "title": "Zero-shot multitask learning"
+    },
+    "f16874a077db38fc7c9834e445b96bd56f7274058658a142c7b6fe27a739e282": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/7b9cfe10",
+      "published_utc": null,
+      "title": "Autonomous Vehicle Research at Waymo"
+    },
+    "f2afa026af170e60bccad86c12e43be55ccee01ecd4b61e9f9451bc427428b0a": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/1155daea",
+      "published_utc": null,
+      "title": "Large Action Models (LAMs) & Rabbits 🐇"
+    },
+    "f474a9eeb99c6a8691b22a29f0d995a5330eb11fb70a9304182826ae87920134": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/ca958d89",
+      "published_utc": null,
+      "title": "Productionizing AI at LinkedIn"
+    },
+    "f8c0ca319a03f3de489d36a6b4890b608462ba765e8acbac39aa7a6800459ff5": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/4b89ff93",
+      "published_utc": null,
+      "title": "A casual conversation concerning causal inference"
+    },
+    "fa950ad2bc87c12e0c934f7f037f7f5495241f6f34314ff6650317075e9b4a13": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/47e8830c",
+      "published_utc": null,
+      "title": "Cybersecurity in the GenAI age"
+    },
+    "faa2e51c8ec31b31b6252e0859b235ef183e98d053f6bb567cc7d9f59d1ab2ba": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/3fe7b88e",
+      "published_utc": null,
+      "title": "The long road to AGI"
+    },
+    "fb61b328e76b19932fbc253419dca31bc47da269dae48a58ae01bc21382ace23": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/d2299d84",
+      "published_utc": null,
+      "title": "GraphRAG (beyond the hype)"
+    },
+    "fbc65b8a8b9ecd3830df4acd3c537aedb648406081db4c8c0304504b5b0b7d12": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/1edb5dc5",
+      "published_utc": null,
+      "title": "Only as good as the data"
+    },
+    "fce30e56082b22530d03910e35a3fea72a3cf1479deecc2a3315f57cc83c6759": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/6ee91a91",
+      "published_utc": null,
+      "title": "Mapping the intersection of AI and GIS"
+    },
+    "fcea2ce2cc63c74d0703c225bab67e2725eafef5031e3f26e97b60fc448b1978": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/723c06be",
+      "published_utc": null,
+      "title": "OpenAI's new \"dangerous\" GPT-2 language model"
+    },
+    "ff89a480d33f69affb18d354f3c092d55553dc1f33763cbab7baa03d2df13314": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e7fda8ce",
+      "published_utc": null,
+      "title": "2025 was the year of agents, what's coming in 2026?"
+    },
+    "ff8e9282ef6c54e2a76ecd0cc9b074909989c683243d3a6a1085a29a11a3b41f": {
+      "feed_id": "Practical AI Podcast",
+      "link": "https://share.transistor.fm/s/e13d399b",
+      "published_utc": null,
+      "title": "We've all done RAG, now what?"
+    }
+  },
+  "last_run_utc": "2026-01-26T13:57:01.667372+00:00",
+  "version": 1
 }

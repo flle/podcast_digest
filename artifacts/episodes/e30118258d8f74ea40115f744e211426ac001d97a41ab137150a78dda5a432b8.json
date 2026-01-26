@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/60675819/fc06806a.mp3",
+  "episode_id": "e30118258d8f74ea40115f744e211426ac001d97a41ab137150a78dda5a432b8",
+  "feed_id": "Practical AI Podcast",
+  "guid": "a189de61-20ec-443a-b297-bb094cd44c42",
+  "link": "https://share.transistor.fm/s/60675819",
+  "published_utc": null,
+  "summary": "<p>In the first episode of an \"AI in the shadows\" theme, Chris and Daniel explore the increasing concerning world of agentic misalignment. Starting out with a reminder about hallucinations and reasoning models, they break down how today’s models only mimic reasoning, which can lead to serious ethical considerations. They unpack a fascinating (and slightly terrifying) new study from Anthropic, where agentic AI models were caught simulating blackmail, deception, and even sabotage — all in the name of goal completion and self-preservation. </p><p>Featuring:</p><ul><li>Chris Benson – <a href=\"https://chrisbenson.com/\">Website</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://bsky.app/profile/chrisbenson.bsky.social\">Bluesky</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Links:</p><ul><li><a href=\"https://www.anthropic.com/research/agentic-misalignment\">Agentic Misalignment: How LLMs could be insider threats</a></li><li><a href=\"https://huggingface.co/agents-course\">Hugging Face Agents Course</a></li></ul><p>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</p>",
+  "title": "AI in the shadows: From hallucinations to blackmail"
+}

@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/36181d91/8ec3e7e9.mp3",
+  "episode_id": "38c888ee41ecf9e631aa6b49a7ff82008241a6d51996ba53b9a5b4df55946289",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/1925",
+  "link": "https://share.transistor.fm/s/36181d91",
+  "published_utc": null,
+  "summary": "<p>Recently Chris and Daniel briefly discussed the Open RAIL-M licensing and model releases on Hugging Face. In this episode, Daniel follows up on this topic based on some recent practical experience. Also included is a discussion about graph neural networks, message passing, and tweaking synthesized voices!</p><p><br /></p><p>Featuring:</p><ul><li>Chris Benson – <a href=\"https://chrisbenson.com\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://huggingface.co/spaces/sil-ai/model-license\">Daniel’s team license from recent work</a></li><li><a href=\"https://www.graphneuralnets.com/\">Graph Neural Network courses from Zak Jost</a></li><li><a href=\"https://coqui.ai/\">Coqui voice studio</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "The practicalities of releasing models"
+}

@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/d7a0d796/0e8b4946.mp3",
+  "episode_id": "29376f4f3aae8b03e0819dd1006f540a96fd5b1c30fba79523f5c8dfe6f5d3c1",
+  "feed_id": "Practical AI Podcast",
+  "guid": "0deadba3-7280-47cf-8346-dd75bb5f7983",
+  "link": "https://share.transistor.fm/s/d7a0d796",
+  "published_utc": null,
+  "summary": "<p>In this episode, Daniel and Chris unpack the Model Context Protocol (MCP), a rising standard for enabling agentic AI interactions with external systems, APIs, and data sources. They explore how MCP supports interoperability, community contributions, and a rapidly developing ecosystem of AI integrations. The conversation also highlights some real-world tooling such as FastAPI-MCP.</p><p>Featuring:</p><ul><li>Chris Benson – <a href=\"https://chrisbenson.com/\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Links:</p><ul><li><a href=\"https://modelcontextprotocol.io/introduction\">Protocol website</a></li><li><a href=\"https://www.anthropic.com/news/model-context-protocol\">Anthropic blog post</a></li><li><a href=\"https://www.philschmid.de/mcp-introduction\">Blog post - Model Context Protocol (MCP) an overview</a></li><li><a href=\"https://github.com/tadata-org/fastapi_mcp\">FastAPI-MCP</a></li><li><a href=\"https://huggingface.co/blog/lynn-mikami/fastapi-mcp-server\">How to Use FastAPI MCP Server: A Complete Guide </a></li><li><a href=\"https://github.com/huggingface/candle\">Candle (Rust framework)</a></li></ul><p><br /></p>",
+  "title": "Model Context Protocol Deep Dive"
+}

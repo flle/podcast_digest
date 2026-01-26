@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/bb2174ee/8e2a484b.mp3",
+  "episode_id": "dc599b7559d6ff1fb4b96fd0cd03e56e9295b6b00be1ed2882711af2cc0dd449",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/1946",
+  "link": "https://share.transistor.fm/s/bb2174ee",
+  "published_utc": null,
+  "summary": "<p>In this special episode, we interview some of the sponsors and teams from a recent case competition organized by Purdue University, Microsoft, INFORMS, and SIL International. 170+ teams from across the US and Canada participated in the competition, which challenged students to create AI-driven systems to caption images in three languages (Thai, Kyrgyz, and Hausa).</p><p><br /></p><p>Featuring:</p><ul><li>Matthew Lanham – <a href=\"http://matthewalanham.com\">Website</a>, <a href=\"https://x.com/MatthewALanham\">X</a></li><li>Mark Tabladillo – <a href=\"https://www.linkedin.com/in/marktab\">LinkedIn</a>, <a href=\"https://x.com/MarkTabNet\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://krannert.purdue.edu/masters/business-analytics-and-information-management/\">Purdue University’s Krannert School of Business</a></li><li><a href=\"https://learn.microsoft.com/en-us/users/sandramarin/collections/zopanqdn7w1p1\">Master the basics of Azure: AI Fundamentals</a></li><li><a href=\"https://learn.microsoft.com/en-us/azure/architecture/\">Azure Architecture Center</a></li><li><a href=\"https://www.sil.org/\">SIL International</a></li><li><a href=\"https://huggingface.co/datasets/sil-ai/bloom-captioning\">The bloom-captioning dataset</a></li></ul><p>Books</p><ul><li><a href=\"https://www.amazon.com/dp/B0BM35KY4C\">“Applied Machine Learning and AI for Engineers” by Jeff Prosise</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "AI competitions & cloud resources"
+}

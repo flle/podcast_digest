@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/4873f35c/d4cac168.mp3",
+  "episode_id": "6291b61ff9082b89c6c5ff80d996bef05e4324e1a271b05d3d842c68655d19ef",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/2546",
+  "link": "https://share.transistor.fm/s/4873f35c",
+  "published_utc": null,
+  "summary": "<p>How do you systematically measure, optimize, and improve the performance of LLM applications (like those powered by RAG or tool use)? Ragas is an open source effort that has been trying to answer this question comprehensively, and they are promoting a “Metrics Driven Development” approach. Shahul from Ragas joins us to discuss Ragas in this episode, and we dig into specific metrics, the difference between benchmarking models and evaluating LLM apps, generating synthetic test data and more.</p><p><br /></p><p>Sponsors:</p><ul><li><a href=\"https://www.assemblyai.com/?utm_source=practicalai&amp;utm_medium=podcast\">Assembly AI</a> – Turn voice data into summaries with AssemblyAI’s leading Speech AI models. Built by AI experts, their Speech AI models include accurate speech-to-text for voice data (such as calls, virtual meetings, and podcasts), speaker detection, sentiment analysis, chapter detection, PII redaction, and more. </li></ul><p>Featuring:</p><ul><li>Shahul Es – <a href=\"https://github.com/shahules786\">GitHub</a>, <a href=\"https://www.linkedin.com/in/shahules\">LinkedIn</a>, <a href=\"https://x.com/shahules786\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://ragas.io/\">Ragas</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "Metrics Driven Development"
+}

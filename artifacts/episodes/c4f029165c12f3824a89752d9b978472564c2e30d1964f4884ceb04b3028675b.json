@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/d38492e4/4a5e69f1.mp3",
+  "episode_id": "c4f029165c12f3824a89752d9b978472564c2e30d1964f4884ceb04b3028675b",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/1872",
+  "link": "https://share.transistor.fm/s/d38492e4",
+  "published_utc": null,
+  "summary": "<p>Chris sits down with Ankur Goyal to talk about <a href=\"https://www.impira.com/product/docquery\">DocQuery</a>, Impira’s new open source ML model. DocQuery lets you ask questions about semi-structured data (like invoices) and unstructured documents (like contracts) using Large Language Models (LLMs). Ankur illustrates many of the ways DocQuery can help people tame documents, and references Chris’s real life tasks as a non-profit director to demonstrate that DocQuery is indeed <em>practical</em> AI.</p><p><br /></p><p>Featuring:</p><ul><li>Ankur Goyal – <a href=\"https://www.linkedin.com/in/ankrgyl\">LinkedIn</a>, <a href=\"https://x.com/ankrgyl\">X</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://www.impira.com/product/docquery\">DocQuery</a></li><li><a href=\"https://twitter.com/ankrgyl/status/1565437042032402433\">DocQuery Announcement</a></li><li><a href=\"https://www.impira.com/blog/hey-machine-whats-my-invoice-total\">DocQuery Blog Announcement</a></li><li><a href=\"https://github.com/impira/docquery\">DocQuery | GitHub</a></li><li><a href=\"https://www.impira.com\">Impira</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "What's up, DocQuery?"
+}

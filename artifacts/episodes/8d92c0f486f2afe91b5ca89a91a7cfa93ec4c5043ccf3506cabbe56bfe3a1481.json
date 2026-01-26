@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/7af850a8/3f7ceed7.mp3",
+  "episode_id": "8d92c0f486f2afe91b5ca89a91a7cfa93ec4c5043ccf3506cabbe56bfe3a1481",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/1860",
+  "link": "https://share.transistor.fm/s/7af850a8",
+  "published_utc": null,
+  "summary": "<p>It’s one thing to gather some labels for your data. It’s another thing to integrate data labeling into your workflows and infrastructure in a scalable, secure, and useful way. Mark from Xelex joins us to talk through some of what he has learned after helping companies scale their data annotation efforts. We get into workflow management, labeling instructions, team dynamics, and quality assessment. This is a super practical episode!</p><p><br /></p><p>Featuring:</p><ul><li>Mark Christensen – <a href=\"https://xelex.ai\">Website</a>, <a href=\"https://www.linkedin.com/in/mark-christensen-ceo-85795728\">LinkedIn</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://xelex.ai/\">Xelex.ai</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "Production data labeling workflows"
+}

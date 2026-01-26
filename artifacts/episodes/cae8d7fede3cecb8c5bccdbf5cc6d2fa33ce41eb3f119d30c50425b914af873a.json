@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/bebc875e/606c872c.mp3",
+  "episode_id": "cae8d7fede3cecb8c5bccdbf5cc6d2fa33ce41eb3f119d30c50425b914af873a",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/1930",
+  "link": "https://share.transistor.fm/s/bebc875e",
+  "published_utc": null,
+  "summary": "<p>It’s been a while since we’ve touched on quantum computing. It’s time for an update! This week we talk with Yonatan from Quantum Machines about real progress being made in the practical construction of hybrid computing centers with a mix of classical processors, GPUs, and quantum processors. Quantum Machines is building both hardware and software to help control, program, and integrate quantum processors within a hybrid computing environment.</p><p><br /></p><p>Featuring:</p><ul><li>Yonatan Cohen – <a href=\"https://github.com/yonatan-cohen-h\">GitHub</a>, <a href=\"https://www.linkedin.com/in/yonatan-cohen-10076b113\">LinkedIn</a>, <a href=\"https://x.com/cohen_phd\">X</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><p><a href=\"https://www.quantum-machines.co/\">Quantum Machines</a></p><p><br />Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "Hybrid computing with quantum processors"
+}

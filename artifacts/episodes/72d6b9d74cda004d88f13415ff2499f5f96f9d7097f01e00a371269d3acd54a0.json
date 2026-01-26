@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/ca7e5e7e/1d854e4d.mp3",
+  "episode_id": "72d6b9d74cda004d88f13415ff2499f5f96f9d7097f01e00a371269d3acd54a0",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/1684",
+  "link": "https://share.transistor.fm/s/ca7e5e7e",
+  "published_utc": null,
+  "summary": "<p>While scaling up machine learning at Instacart, Montana Low and Lev Kokotov discovered just how much you can do with the Postgres database. They are building on that work with PostgresML, an extension to the database that lets you train and deploy models to make online predictions using only SQL. This is super practical discussion that you don’t want to miss!</p><p><br /></p><p>Featuring:</p><ul><li>Montana Low – <a href=\"https://github.com/montanalow\">GitHub</a>, <a href=\"https://www.linkedin.com/in/montanalow\">LinkedIn</a>, <a href=\"https://x.com/montanalow\">X</a></li><li>Lev Kokotov – <a href=\"https://github.com/levkk\">GitHub</a>, <a href=\"https://www.linkedin.com/in/levkk\">LinkedIn</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://postgresml.org/\">PostgresML website</a></li><li><a href=\"https://github.com/postgresml/postgresml\">PostgresML on GitHub</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "Machine learning in your database"
+}

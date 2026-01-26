@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/657d28be/0b5d4eee.mp3",
+  "episode_id": "1eb35bf6de7d8cdab55ecf7916ce188f60b28b372e5ae50594b14647f3fef503",
+  "feed_id": "Practical AI Podcast",
+  "guid": "6f648f8c-8bfa-432e-8bc1-c49f4e8d58b4",
+  "link": "https://share.transistor.fm/s/657d28be",
+  "published_utc": null,
+  "summary": "<p>In this episode, Daniel sits down with Pavel Veller, EPAM’s Chief Technologist, to explore the practical challenges of orchestrating many AI agents and managing connections to disparate systems/tools. Pavel shares insights from his hands-on work with agentic architectures and internal tools like \"DIAL\". Pavel also helps us understand things like MCP servers and why connecting assistants via APIs is easy—but making them useful is hard. </p><p>Featuring:</p><ul><li>Pavel Veller – <a href=\"https://www.linkedin.com/in/pavelveller/\">LinkedIn</a>, <a href=\"https://x.com/pveller\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Links:</p><ul><li><a href=\"https://www.epam.com/\">EPAM</a></li><li><a href=\"https://epam-rail.com/platform\">DIAL</a></li><li><a href=\"https://www.swebench.com/#verified\">SWE-bench results</a></li></ul>",
+  "title": "Orchestrating agents, APIs, and MCP servers"
+}

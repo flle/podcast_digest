@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/209b5978/34ddeabc.mp3",
+  "episode_id": "733add097691c782eb7a3b765c4f115d4750730924452c30988082a20f7f3de0",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/1120",
+  "link": "https://share.transistor.fm/s/209b5978",
+  "published_utc": null,
+  "summary": "<p><a href=\"https://www.wandb.com/\">Weights &amp; Biases</a> is coming up with some awesome developer tools for AI practitioners! In this episode, Lukas Biewald describes how these tools were a direct result of pain points that he uncovered while working as an AI intern at OpenAI. He also shares his vision for the future of machine learning tooling and where he would like to see people level up tool-wise.</p><p><br /></p><p>Featuring:</p><ul><li>Lukas Biewald – <a href=\"https://lukasbiewald.com\">Website</a>, <a href=\"https://github.com/lukas\">GitHub</a>, <a href=\"https://x.com/l2k\">X</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://www.wandb.com/\">Weights &amp; Biases</a></li><li><a href=\"https://wandb.ai/blueriver/blog-post/reports/AI-For-AG-Production-ML-for-Agriculture--VmlldzoxNTA1MDg?accessToken=ps435xipm72k06ljgzl0442gmr64tj7ybpc2xublpxgymsrgiy3rug7egcuh6spo\">Blueriver case study from W&amp;B</a></li><li><a href=\"https://wandb.ai/gallery\">W&amp;B gallery</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "Killer developer tools for machine learning"
+}

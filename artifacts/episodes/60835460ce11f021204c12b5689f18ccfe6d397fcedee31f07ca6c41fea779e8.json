@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/a422b8c2/ab8b5227.mp3",
+  "episode_id": "60835460ce11f021204c12b5689f18ccfe6d397fcedee31f07ca6c41fea779e8",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/2419",
+  "link": "https://share.transistor.fm/s/a422b8c2",
+  "published_utc": null,
+  "summary": "<p>We recently gathered some Practical AI listeners for a live webinar with Danny from LibreChat to discuss the future of private, open source chat UIs. During the discussion we hear about the motivations behind LibreChat, why enterprise users are hosting their own chat UIs, and how Danny (and the LibreChat community) is creating amazing features (like RAG and plugins).</p><p><br /></p><p>Sponsors:</p><ul><li><a href=\"https://fly.io/changelog\">Fly.io</a> – <strong>The home of Changelog.com</strong> — Deploy your apps and databases close to your users. In minutes you can run your Ruby, Go, Node, Deno, Python, or Elixir app (and databases!) all over the world. No ops required. Learn more at <a href=\"https://fly.io/changelog\">fly.io/changelog</a> and check out <a href=\"https://fly.io/docs/speedrun/\">the speedrun in their docs</a>. </li></ul><p>Featuring:</p><ul><li>Danny Avila – <a href=\"https://x.com/lgtm_hbu\">X</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://tinyurl.com/genai-mastery3\">Register for our next webinar (similar to this one) focused on multimodal AI</a></li><li><a href=\"https://github.com/danny-avila/LibreChat\">LibreChat</a></li><li><a href=\"https://www.predictionguard.com/\">Prediction Guard</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "Private, open source chat UIs"
+}

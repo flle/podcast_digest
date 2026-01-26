@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/e1f7a9a9/a4cd964e.mp3",
+  "episode_id": "c6de7ccbbf0c45b3ecb1fd53a610628cb0cb36dc78652ff21e1449b51e150f16",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/1841",
+  "link": "https://share.transistor.fm/s/e1f7a9a9",
+  "published_utc": null,
+  "summary": "<p>The new stable diffusion model is everywhere! Of course you can use this model to quickly and easily create amazing, dream-like images to post on twitter, reddit, discord, etc., but this technology is also poised to be used in very pragmatic ways across industry. In this episode, Chris and Daniel take a deep dive into all things stable diffusion. They discuss the motivations for the work, the model architecture, and the differences between this model and other related releases (e.g., DALL·E 2).</p><p><br /> (Image from stability.ai)</p><p><br /></p><p>Featuring:</p><ul><li>Chris Benson – <a href=\"https://chrisbenson.com\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://stability.ai/blog/stable-diffusion-announcement\">Announcement blog post</a></li><li><a href=\"https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf\">Stable diffusion paper</a></li><li><a href=\"https://www.paepper.com/blog/posts/how-and-why-stable-diffusion-works-for-text-to-image-generation/\">Blog post about the model from Marc Päpper</a></li><li><a href=\"https://huggingface.co/CompVis/stable-diffusion-v1-4\">Stable Diffusion on Hugging Face</a></li><li><a href=\"https://github.com/huggingface/diffusers\">Hugging Face Diffusers library</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "Stable Diffusion"
+}

@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/6b9fa11e/e7dbbada.mp3",
+  "episode_id": "5252e97726d3626fbd5b3f483224ec11ce03684e16646e9dc15dcc92c0cd3761",
+  "feed_id": "Practical AI Podcast",
+  "guid": "25f2c986-c65c-4333-b088-6b00c3ac3f05",
+  "link": "https://share.transistor.fm/s/6b9fa11e",
+  "published_utc": null,
+  "summary": "<p>In this episode, we sit down with Joey Conway to explore NVIDIA's open source AI, from the reasoning-focused Nemotron models built on top of Llama, to the blazing-fast Parakeet speech model. We chat about what makes open foundation models so valuable, how enterprises can think about deploying multi-model strategies, and why reasoning is becoming the key differentiator in real-world AI applications.</p><p>Featuring:</p><ul><li>Joey Conway – <a href=\"https://www.linkedin.com/in/joeyconway/\">LinkedIn</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com/\">Website</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://bsky.app/profile/chrisbenson.bsky.social\">Bluesky</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://x.com/chrisbenson\">X</a></li></ul><p>Links:</p><ul><li><a href=\"https://www.nvidia.com/en-us/ai-data-science/foundation-models/llama-nemotron/\">Llama Nemotron Ultra</a></li><li><a href=\"https://developer.nvidia.com/blog/nvidia-llama-nemotron-ultra-open-model-delivers-groundbreaking-reasoning-accuracy/\">NVIDIA Llama Nemotron Ultra Open Model Delivers Groundbreaking Reasoning Accuracy</a></li><li><a href=\"https://artificialanalysis.ai/\">Independent analysis of AI</a></li><li><a href=\"https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2\">Parakeet Model</a></li><li><a href=\"https://huggingface.co/spaces/hf-audio/open_asr_leaderboard\">Parakeet Leaderboard</a></li><li>Try the Llama-3.1-Nemotron-Ultra-253B-v1 model <a href=\"https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1\">here</a> and <a href=\"https://build.nvidia.com/nvidia/llama-3_1-nemotron-ultra-253b-v1/modelcard\">here</a></li></ul>",
+  "title": "Finding Nemotron"
+}

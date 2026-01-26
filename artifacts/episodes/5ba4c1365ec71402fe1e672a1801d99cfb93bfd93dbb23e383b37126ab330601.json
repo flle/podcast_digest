@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/937fd39e/d551db68.mp3",
+  "episode_id": "5ba4c1365ec71402fe1e672a1801d99cfb93bfd93dbb23e383b37126ab330601",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/2665",
+  "link": "https://share.transistor.fm/s/937fd39e",
+  "published_utc": null,
+  "summary": "<p>It seems like everyone is uses the term “agent” differently these days. In this episode, Chris and Daniel dig into the details of tool calling and its connection to agents. They help clarify how LLMs can “talk to” and “interact with” other systems like databases, APIs, web apps, etc. Along the way they share related learning resources.</p><ul><li><a href=\"http://notion.com/practicalai\">Notion</a> – Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It’s a workspace designed not just for making progress, but getting inspired. Notion is for everyone — whether you’re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs. </li></ul><p>Featuring:</p><ul><li>Chris Benson – <a href=\"https://chrisbenson.com\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://github.com/huggingface/smolagents\">smolagents</a></li><li><a href=\"https://huggingface.co/learn/agents-course/unit0/introduction\">Hugging Face agents course</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "Tool calling and agents"
+}

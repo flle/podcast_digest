@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/020a47bd/4113806c.mp3",
+  "episode_id": "7682a135071affc7bd285c609555dda281edffad214d06ca5a75c4956622dd2e",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/846",
+  "link": "https://share.transistor.fm/s/020a47bd",
+  "published_utc": null,
+  "summary": "<p>SpaCy is awesome for NLP! It’s easy to use, has widespread adoption, is open source, and integrates the latest language models. Ines Montani and Matthew Honnibal (core developers of spaCy and co-founders of Explosion) join us to discuss the history of the project, its capabilities, and the latest trends in NLP. We also dig into the practicalities of taking NLP workflows to production. You don’t want to miss this episode!</p><p><br /></p><p>Featuring:</p><ul><li>Ines Montani – <a href=\"https://github.com/ines\">GitHub</a>, <a href=\"https://x.com/_inesmontani\">X</a></li><li>Matthew Honnibal – <a href=\"https://github.com/honnibal\">GitHub</a>, <a href=\"https://x.com/honnibal\">X</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://spacy.io/\">SpaCy</a></li><li><a href=\"https://course.spacy.io/\">Advanced NLP with SpaCy course</a></li><li><a href=\"https://github.com/explosion/thinc\">Thinc</a></li><li><a href=\"https://explosion.ai/\">Explosion AI</a></li><li><a href=\"https://prodi.gy/\">Prodigy</a></li><li><a href=\"https://www.fast.ai/\">Fast.ai</a></li><li><a href=\"https://www.deeplearning.ai/machine-learning-yearning/\">Machine learning yearning</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "Modern NLP with spaCy"
+}

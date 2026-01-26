@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/ca41b93c/a54b2afe.mp3",
+  "episode_id": "83d4515262d383186e9f7cbdd29e79ed7e70dec0a7aa840f8c17612b8cf05302",
+  "feed_id": "Practical AI Podcast",
+  "guid": "e8faf8b3-70e8-437d-b879-363fbd741efa",
+  "link": "https://share.transistor.fm/s/ca41b93c",
+  "published_utc": null,
+  "summary": "<p>Dan and Chris sit down (again) with Jared Zoneraich, co-founder and CEO of PromptLayer, to discuss how prompt engineering has evolved into context engineering (and while loops with tool calls). Jared shares insights on building flexible AI applications, managing tool calls, testing and versioning prompts, and empowering both technical and non-technical users in AI development. Along the way, they dive into coding agents and the “crawl-walk-run” approach to AI deployment.</p><p>Featuring: </p><ul><li>Jared Zoneraich – <a href=\"https://www.linkedin.com/in/imjaredz/\">LinkedIn</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com/\">Website</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://bsky.app/profile/chrisbenson.bsky.social\">Bluesky</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Links:</p><ul><li><a href=\"https://www.promptlayer.com/\">PromptLayer</a></li></ul><p>Upcoming Events: </p><ul><li>Join us at the <a href=\"https://midwestaisummit.com/\">Midwest AI Summit</a> on November 13 in Indianapolis to hear world-class speakers share how they’ve scaled AI solutions. Don’t miss the <strong>AI Engineering Lounge</strong>, where you can sit down with experts for hands-on guidance. Reserve your spot today!</li><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "While loops with tool calls"
+}

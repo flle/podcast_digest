@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/8c9648cd/8f08d251.mp3",
+  "episode_id": "53a75d2d0dc17e0f3c7acb39adcab604fbe1fe16d458e9529afdba2262f9e6a5",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/2491",
+  "link": "https://share.transistor.fm/s/8c9648cd",
+  "published_utc": null,
+  "summary": "<p>Daniel &amp; Chris explore the advantages of vector databases with Roie Schwaber-Cohen of Pinecone. Roie starts with a very lucid explanation of why you need a vector database in your machine learning pipeline, and then goes on to discuss Pinecone’s vector database, designed to facilitate efficient storage, retrieval, and management of vector data.</p><p><br /></p><p>Sponsors:</p><ul><li><a href=\"https://useplumb.com/\">Plumb</a> – <strong>Low-code AI pipeline builder</strong> that helps you build complex AI pipelines fast. Easily create AI pipelines using their node-based editor. Iterate and deploy faster and more reliably than coding by hand, without sacrificing control. </li></ul><p>Featuring:</p><ul><li>Roie Schwaber-Cohen – <a href=\"https://github.com/rschwabco\">GitHub</a>, <a href=\"https://www.linkedin.com/in/roiecohen\">LinkedIn</a>, <a href=\"https://x.com/roieschwabco\">X</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://www.pinecone.io\">Pinecone</a></li><li><a href=\"https://www.pinecone.io/blog\">Pinecone | Blog</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "Vectoring in on Pinecone"
+}

@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/ce5ddd66/0fcbb9e2.mp3",
+  "episode_id": "59e75a3be69d83f7617d9d5f0337bd9a782779afbb3d94261a9b79a8167df618",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/883",
+  "link": "https://share.transistor.fm/s/ce5ddd66",
+  "published_utc": null,
+  "summary": "<p>Daniel and Chris explore <a href=\"https://www.semanticscholar.org\">Semantic Scholar</a> with Doug Raymond of the Allen Institute for Artificial Intelligence. Semantic Scholar is an AI-backed search engine that uses machine learning, natural language processing, and machine vision to surface relevant information from scientific papers.</p><p><br /></p><p>Featuring:</p><ul><li>Douglas Raymond – <a href=\"https://github.com/daraymond\">GitHub</a>, <a href=\"https://www.linkedin.com/in/draymond\">LinkedIn</a>, <a href=\"https://x.com/daraymond\">X</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://www.semanticscholar.org\">Semantic Scholar</a></li><li><a href=\"https://allenai.org\">Allen Institute for Artificial Intelligence</a></li><li><a href=\"https://allennlp.org/elmo\">ELMo</a></li><li><a href=\"https://arxiv.org/abs/1903.10676\">SciBERT: A Pretrained Language Model for Scientific Text</a></li><li><a href=\"http://api.semanticscholar.org/corpus\">Semantic Scholar API</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "AI-powered scientific exploration and discovery"
+}

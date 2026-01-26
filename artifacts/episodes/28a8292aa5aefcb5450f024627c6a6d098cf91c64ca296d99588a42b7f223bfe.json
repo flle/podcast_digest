@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/5e63c891/c3ddeda7.mp3",
+  "episode_id": "28a8292aa5aefcb5450f024627c6a6d098cf91c64ca296d99588a42b7f223bfe",
+  "feed_id": "Practical AI Podcast",
+  "guid": "5edd910e-8474-40c8-8b83-ee289c67ae3b",
+  "link": "https://share.transistor.fm/s/5e63c891",
+  "published_utc": null,
+  "summary": "<p>How do you enable AI acceleration (at both the hardware and software layers) that stays ahead of rapid industry shifts? In this episode, Dhananjay Singh from Groq dives into the evolving landscape of AI inference and acceleration. We explore how Groq optimizes the serving layer, adapts to industry shifts, and supports emerging model architectures. </p><p>Featuring:</p><ul><li>Dhananjay Singh – <a href=\"https://www.linkedin.com/in/djsh/\">LinkedIn</a>, <a href=\"https://x.com/djays%20\">X</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com/\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Links:</p><ul><li><a href=\"https://groq.com/\">Groq</a></li></ul><p>Sponsors:</p><ul><li><a href=\"https://www.augmentcode.com?utm_source=changelog&amp;utm_medium=podcast&amp;utm_campaign=changelog\">Augment Code</a> - Developer AI that uses deep understanding of your large codebase and how you build software to deliver personalized code suggestions and insights. Augment provides relevant, contextualized code right in your IDE or Slack. It transforms scattered knowledge into code or answers, eliminating time spent searching docs or interrupting teammates.</li></ul>",
+  "title": "Software and hardware acceleration with Groq"
+}

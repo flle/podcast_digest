@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/fb39a0d8/fd368e57.mp3",
+  "episode_id": "e50e4dc6353224bbcc2238760f6b45851922e15741c7683420dfb01c6342838f",
+  "feed_id": "Practical AI Podcast",
+  "guid": "f8b53471-70f1-4ade-a68d-c0a89fa9211b",
+  "link": "https://share.transistor.fm/s/fb39a0d8",
+  "published_utc": null,
+  "summary": "<p>We often judge AI models by leaderboard scores, but what if efficiency matters more? Kate Soule from IBM joins us to discuss how Granite AI is rethinking AI at the edge—breaking tasks into smaller, efficient components and co-designing models with hardware. She also shares why AI should prioritize efficiency frontiers over incremental benchmark gains and how seamless model routing can optimize performance. </p><p>Featuring:</p><ul><li>Kate Soule – <a href=\"https://www.linkedin.com/in/katesoule/\">LinkedIn</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com/\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Links:</p><ul><li><a href=\"https://www.ibm.com/granite\">IBM Granite</a></li><li><a href=\"https://huggingface.co/ibm-granite\">IBM Granite on Hugging Face</a></li><li><a href=\"https://newsroom.ibm.com/2025-02-26-ibm-expands-granite-model-family-with-new-multi-modal-and-reasoning-ai-built-for-the-enterprise\">IBM Expands Granite Model Family with New Multi-Modal and Reasoning AI Built for the Enterprise </a></li></ul>",
+  "title": "Optimizing for efficiency with IBM’s Granite"
+}

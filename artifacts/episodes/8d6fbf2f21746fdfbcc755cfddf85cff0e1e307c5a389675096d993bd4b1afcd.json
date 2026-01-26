@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/e283a9d0/77122826.mp3",
+  "episode_id": "8d6fbf2f21746fdfbcc755cfddf85cff0e1e307c5a389675096d993bd4b1afcd",
+  "feed_id": "Practical AI Podcast",
+  "guid": "cc6e6d9b-5a7d-46fa-b784-6b5f3c12c9e7",
+  "link": "https://share.transistor.fm/s/e283a9d0",
+  "published_utc": null,
+  "summary": "<p>In this first of a two part series of episodes on federated learning, we dive into the evolving world of federated learning and distributed AI frameworks with Patrick Foley from Intel. We explore how frameworks like OpenFL and Flower are enabling secure, collaborative model training across silos, especially in sensitive fields like healthcare. The conversation touches on real-world use cases, the challenges of distributed ML/AI experiments, and why privacy-preserving techniques may become essential for deploying AI to production.</p><p>Featuring:</p><ul><li>Patrick Foley – <a href=\"https://www.linkedin.com/in/psfoley/\">LinkedIn</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com/\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Links:</p><ul><li><a href=\"https://www.intel.com/content/www/us/en/homepage.html\">Intel</a></li><li><a href=\"https://openfl.io/\">OpenFL</a></li></ul><p>Sponsors:</p><ul><li><a href=\"https://nordlayer.com/practicalai/\">NordLayer</a> is a toggle-ready network security platform built for modern businesses. It combines VPN, access control, and threat protection in one easy-to-use platform. No hardware. No complex setup. Just secure connection and full control—in less than 10 minutes. Up to 22% off NordLayer yearly plans plus 10% on top with the coupon code practically-10.</li></ul>",
+  "title": "Federated learning in production (part 1)"
+}

@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/0c672de3/f45eec9e.mp3",
+  "episode_id": "c37122e741439a8f76a93cd0debd4f837382d94997a2f9f855672bdb4cf4a14c",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/1849",
+  "link": "https://share.transistor.fm/s/0c672de3",
+  "published_utc": null,
+  "summary": "<p>WeightWatcher, created by Charles Martin, is an open source diagnostic tool for analyzing Neural Networks without training or even test data! Charles joins us in this episode to discuss the tool and how it fills certain gaps in current model evaluation workflows. Along the way, we discuss statistical methods from physics and a variety of practical ways to modify your training runs.</p><p><br /></p><p>Featuring:</p><ul><li>Charles Martin – <a href=\"https://github.com/charlesmartin14\">GitHub</a>, <a href=\"https://www.linkedin.com/in/charlesmartin14\">LinkedIn</a>, <a href=\"https://x.com/charlesmartin14\">X</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://github.com/CalculatedContent/WeightWatcher\">WeightWatcher</a></li><li><a href=\"https://www.youtube.com/watch?v=Tnafo6JVoJs\">Talk from the Silicon Valley ACM meetup</a></li><li><a href=\"https://youtu.be/xEuBwBj_Ov4\">A deep dive into the theory behind WeightWatcher (a talk from ENS)</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "Evaluating models without test data"
+}

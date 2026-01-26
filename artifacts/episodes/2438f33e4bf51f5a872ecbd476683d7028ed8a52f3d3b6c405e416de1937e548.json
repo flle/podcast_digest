@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/3d390eaa/dea900a7.mp3",
+  "episode_id": "2438f33e4bf51f5a872ecbd476683d7028ed8a52f3d3b6c405e416de1937e548",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/1950",
+  "link": "https://share.transistor.fm/s/3d390eaa",
+  "published_utc": null,
+  "summary": "<p>José and Ricardo joined Daniel at EMNLP 2022 to discuss state-of-the-art machine translation, the WMT shared tasks, and quality estimation. Among other things, they talk about Unbabel’s innovations in quality estimation including COMET, a neural framework for training multilingual machine translation (MT) evaluation models.</p><p><br /></p><p>Featuring:</p><ul><li>Ricardo Rei – <a href=\"https://x.com/RicardoRei7\">X</a></li><li>José Souza – <a href=\"https://x.com/accezz\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://unbabel.com/\">Unbabel</a></li><li><a href=\"https://unbabel.com/research/comet/\">COMET</a></li><li><a href=\"https://www.statmt.org/wmt22/\">The WMT workshop/ conference</a></li><li><a href=\"https://2022.emnlp.org/\">EMNLP</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "SOTA machine translation at Unbabel"
+}

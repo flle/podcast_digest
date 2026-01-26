@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/444b43ae/660aaafb.mp3",
+  "episode_id": "5f49fb76ad45b20a828085141c8a86de3f3a0ae2532f3d20341933d051d19977",
+  "feed_id": "Practical AI Podcast",
+  "guid": "changelog.com/7/1640",
+  "link": "https://share.transistor.fm/s/444b43ae",
+  "published_utc": null,
+  "summary": "<p>We all hear a lot about MLOps these days, but where does MLOps end and DevOps begin? Our friend Luis from OctoML joins us in this episode to discuss treating AI/ML models as regular software components (once they are trained and ready for deployment). We get into topics including optimization on various kinds of hardware and deployment of models at the edge.</p><p><br /></p><p>Sponsors:</p><ul><li><a href=\"https://changelog.com/++\">Changelog++</a> – You love our content and you want to take it to the next level by showing your support. We’ll take you closer to the metal with extended episodes, make the ads disappear, and increment your audio quality with higher bitrate mp3s. <a href=\"https://changelog.com/++\">Let’s do this</a>! </li><li><a href=\"https://changelog.com/shipit\">Ship It!</a> – A podcast about getting your best ideas into the world and seeing what happens. Listen to an episode that interests you and <a href=\"https://changelog.com/shipit\">subscribe today</a>. </li></ul><p>Featuring:</p><ul><li>Luis Ceze – <a href=\"https://www.linkedin.com/in/luis-ceze-50b2314\">LinkedIn</a>, <a href=\"https://x.com/luisceze\">X</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com\">Website</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Show Notes:</p><ul><li><a href=\"https://octoml.ai/\">OctoML</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "MLOps is NOT Real"
+}

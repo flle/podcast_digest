@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/df33214d/9c2dd1a8.mp3",
+  "episode_id": "3a11a6d94a872bad5892e241e48366fe5e8a9d8b9256c802c0a61438e6ee8676",
+  "feed_id": "Practical AI Podcast",
+  "guid": "57872af6-b6b7-4832-86a9-35608a8296b8",
+  "link": "https://share.transistor.fm/s/df33214d",
+  "published_utc": null,
+  "summary": "<p>As generative AI moves into production, traditional guardrails and input/output filters can prove too slow, too expensive, and/or too limited. In this episode, Alizishaan Khatri of Wrynx joins Daniel and Chris to explore a fundamentally different approach to AI safety and interpretability. They unpack the limits of today’s black-box defenses, the role of interpretability, and how model-native, runtime signals can enable safer AI systems. </p><p>Featuring:</p><ul><li>Alizishaan Khatri – <a href=\"https://www.linkedin.com/in/alizishaan-khatri-32a20637/\">LinkedIn</a></li><li>Chris Benson – <a href=\"https://chrisbenson.com/\">Website</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\">LinkedIn</a>, <a href=\"https://bsky.app/profile/chrisbenson.bsky.social\">Bluesky</a>, <a href=\"https://github.com/chrisbenson\">GitHub</a>, <a href=\"https://x.com/chrisbenson\">X</a></li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Upcoming Events: </p><ul><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "Controlling AI Models from the Inside"
+}

@@ -1,0 +1,10 @@
+{
+  "enclosure_url": "https://media.transistor.fm/e13d399b/bf9fec0b.mp3",
+  "episode_id": "ff8e9282ef6c54e2a76ecd0cc9b074909989c683243d3a6a1085a29a11a3b41f",
+  "feed_id": "Practical AI Podcast",
+  "guid": "d9e8078b-5582-490f-976e-f5197f3db234",
+  "link": "https://share.transistor.fm/s/e13d399b",
+  "published_utc": null,
+  "summary": "<p>Longtime friend of the show Rajiv Shah returns to unpack lessons from a year of building retrieval-augmented generation (RAG) pipelines and reasoning models integrations. We dive into why so many AI pilots stumble, why evaluation and error analysis remain essential data science skills, and why not every enterprise challenge calls for a large language model.</p><p>Featuring:</p><ul><li>Rajiv Shah – <a href=\"https://www.linkedin.com/in/rajistics/\">LinkedIn</a> </li><li>Daniel Whitenack – <a href=\"https://www.datadan.io/\">Website</a>, <a href=\"https://github.com/dwhitena\">GitHub</a>, <a href=\"https://x.com/dwhitena\">X</a></li></ul><p>Upcoming Events: </p><ul><li>Join us at the <a href=\"https://midwestaisummit.com/\">Midwest AI Summit</a> on November 13 in Indianapolis to hear world-class speakers share how they’ve scaled AI solutions. Don’t miss the <strong>AI Engineering Lounge</strong>, where you can sit down with experts for hands-on guidance. Reserve your spot today!</li><li>Register for <a href=\"https://practicalai.fm/webinars\">upcoming webinars here</a>!</li></ul>",
+  "title": "We've all done RAG, now what?"
+}
