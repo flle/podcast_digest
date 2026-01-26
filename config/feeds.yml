@@ -1,4 +1,3 @@
 feeds:
     - id: Practical AI Podcast
-    - type: podcast
     - url: https://feeds.transistor.fm/practical-ai-machine-learning-data-science-llm
